@@ -1,0 +1,831 @@
+OrderID,OrderDate,CustomerID,CustomerName,Country
+10643,1997-08-25,ALFKI,"Alfreds Futterkiste",Germany
+10692,1997-10-03,ALFKI,"Alfreds Futterkiste",Germany
+10702,1997-10-13,ALFKI,"Alfreds Futterkiste",Germany
+10835,1998-01-15,ALFKI,"Alfreds Futterkiste",Germany
+10952,1998-03-16,ALFKI,"Alfreds Futterkiste",Germany
+11011,1998-04-09,ALFKI,"Alfreds Futterkiste",Germany
+10308,1996-09-18,ANATR,"Ana Trujillo Emparedados y helados",Mexico
+10625,1997-08-08,ANATR,"Ana Trujillo Emparedados y helados",Mexico
+10759,1997-11-28,ANATR,"Ana Trujillo Emparedados y helados",Mexico
+10926,1998-03-04,ANATR,"Ana Trujillo Emparedados y helados",Mexico
+10365,1996-11-27,ANTON,"Antonio Moreno Taquera",Mexico
+10507,1997-04-15,ANTON,"Antonio Moreno Taquera",Mexico
+10535,1997-05-13,ANTON,"Antonio Moreno Taquera",Mexico
+10573,1997-06-19,ANTON,"Antonio Moreno Taquera",Mexico
+10677,1997-09-22,ANTON,"Antonio Moreno Taquera",Mexico
+10682,1997-09-25,ANTON,"Antonio Moreno Taquera",Mexico
+10856,1998-01-28,ANTON,"Antonio Moreno Taquera",Mexico
+10355,1996-11-15,AROUT,"Around the Horn",UK
+10383,1996-12-16,AROUT,"Around the Horn",UK
+10453,1997-02-21,AROUT,"Around the Horn",UK
+10558,1997-06-04,AROUT,"Around the Horn",UK
+10707,1997-10-16,AROUT,"Around the Horn",UK
+10741,1997-11-14,AROUT,"Around the Horn",UK
+10743,1997-11-17,AROUT,"Around the Horn",UK
+10768,1997-12-08,AROUT,"Around the Horn",UK
+10793,1997-12-24,AROUT,"Around the Horn",UK
+10864,1998-02-02,AROUT,"Around the Horn",UK
+10920,1998-03-03,AROUT,"Around the Horn",UK
+10953,1998-03-16,AROUT,"Around the Horn",UK
+11016,1998-04-10,AROUT,"Around the Horn",UK
+10278,1996-08-12,BERGS,"Berglunds snabbkp",Sweden
+10280,1996-08-14,BERGS,"Berglunds snabbkp",Sweden
+10384,1996-12-16,BERGS,"Berglunds snabbkp",Sweden
+10444,1997-02-12,BERGS,"Berglunds snabbkp",Sweden
+10445,1997-02-13,BERGS,"Berglunds snabbkp",Sweden
+10524,1997-05-01,BERGS,"Berglunds snabbkp",Sweden
+10572,1997-06-18,BERGS,"Berglunds snabbkp",Sweden
+10626,1997-08-11,BERGS,"Berglunds snabbkp",Sweden
+10654,1997-09-02,BERGS,"Berglunds snabbkp",Sweden
+10672,1997-09-17,BERGS,"Berglunds snabbkp",Sweden
+10689,1997-10-01,BERGS,"Berglunds snabbkp",Sweden
+10733,1997-11-07,BERGS,"Berglunds snabbkp",Sweden
+10778,1997-12-16,BERGS,"Berglunds snabbkp",Sweden
+10837,1998-01-16,BERGS,"Berglunds snabbkp",Sweden
+10857,1998-01-28,BERGS,"Berglunds snabbkp",Sweden
+10866,1998-02-03,BERGS,"Berglunds snabbkp",Sweden
+10875,1998-02-06,BERGS,"Berglunds snabbkp",Sweden
+10924,1998-03-04,BERGS,"Berglunds snabbkp",Sweden
+10501,1997-04-09,BLAUS,"Blauer See Delikatessen",Germany
+10509,1997-04-17,BLAUS,"Blauer See Delikatessen",Germany
+10582,1997-06-27,BLAUS,"Blauer See Delikatessen",Germany
+10614,1997-07-29,BLAUS,"Blauer See Delikatessen",Germany
+10853,1998-01-27,BLAUS,"Blauer See Delikatessen",Germany
+10956,1998-03-17,BLAUS,"Blauer See Delikatessen",Germany
+11058,1998-04-29,BLAUS,"Blauer See Delikatessen",Germany
+10265,1996-07-25,BLONP,"Blondesddsl pre et fils",France
+10297,1996-09-04,BLONP,"Blondesddsl pre et fils",France
+10360,1996-11-22,BLONP,"Blondesddsl pre et fils",France
+10436,1997-02-05,BLONP,"Blondesddsl pre et fils",France
+10449,1997-02-18,BLONP,"Blondesddsl pre et fils",France
+10559,1997-06-05,BLONP,"Blondesddsl pre et fils",France
+10566,1997-06-12,BLONP,"Blondesddsl pre et fils",France
+10584,1997-06-30,BLONP,"Blondesddsl pre et fils",France
+10628,1997-08-12,BLONP,"Blondesddsl pre et fils",France
+10679,1997-09-23,BLONP,"Blondesddsl pre et fils",France
+10826,1998-01-12,BLONP,"Blondesddsl pre et fils",France
+10326,1996-10-10,BOLID,"Blido Comidas preparadas",Spain
+10801,1997-12-29,BOLID,"Blido Comidas preparadas",Spain
+10970,1998-03-24,BOLID,"Blido Comidas preparadas",Spain
+10331,1996-10-16,BONAP,"Bon app'",France
+10340,1996-10-29,BONAP,"Bon app'",France
+10362,1996-11-25,BONAP,"Bon app'",France
+10470,1997-03-11,BONAP,"Bon app'",France
+10511,1997-04-18,BONAP,"Bon app'",France
+10525,1997-05-02,BONAP,"Bon app'",France
+10663,1997-09-10,BONAP,"Bon app'",France
+10715,1997-10-23,BONAP,"Bon app'",France
+10730,1997-11-05,BONAP,"Bon app'",France
+10732,1997-11-06,BONAP,"Bon app'",France
+10755,1997-11-26,BONAP,"Bon app'",France
+10827,1998-01-12,BONAP,"Bon app'",France
+10871,1998-02-05,BONAP,"Bon app'",France
+10876,1998-02-09,BONAP,"Bon app'",France
+10932,1998-03-06,BONAP,"Bon app'",France
+10940,1998-03-11,BONAP,"Bon app'",France
+11076,1998-05-06,BONAP,"Bon app'",France
+10389,1996-12-20,BOTTM,"Bottom-Dollar Markets",Canada
+10410,1997-01-10,BOTTM,"Bottom-Dollar Markets",Canada
+10411,1997-01-10,BOTTM,"Bottom-Dollar Markets",Canada
+10431,1997-01-30,BOTTM,"Bottom-Dollar Markets",Canada
+10492,1997-04-01,BOTTM,"Bottom-Dollar Markets",Canada
+10742,1997-11-14,BOTTM,"Bottom-Dollar Markets",Canada
+10918,1998-03-02,BOTTM,"Bottom-Dollar Markets",Canada
+10944,1998-03-12,BOTTM,"Bottom-Dollar Markets",Canada
+10949,1998-03-13,BOTTM,"Bottom-Dollar Markets",Canada
+10975,1998-03-25,BOTTM,"Bottom-Dollar Markets",Canada
+10982,1998-03-27,BOTTM,"Bottom-Dollar Markets",Canada
+11027,1998-04-16,BOTTM,"Bottom-Dollar Markets",Canada
+11045,1998-04-23,BOTTM,"Bottom-Dollar Markets",Canada
+11048,1998-04-24,BOTTM,"Bottom-Dollar Markets",Canada
+10289,1996-08-26,BSBEV,"B's Beverages",UK
+10471,1997-03-11,BSBEV,"B's Beverages",UK
+10484,1997-03-24,BSBEV,"B's Beverages",UK
+10538,1997-05-15,BSBEV,"B's Beverages",UK
+10539,1997-05-16,BSBEV,"B's Beverages",UK
+10578,1997-06-24,BSBEV,"B's Beverages",UK
+10599,1997-07-15,BSBEV,"B's Beverages",UK
+10943,1998-03-11,BSBEV,"B's Beverages",UK
+10947,1998-03-13,BSBEV,"B's Beverages",UK
+11023,1998-04-14,BSBEV,"B's Beverages",UK
+10521,1997-04-29,CACTU,"Cactus Comidas para llevar",Argentina
+10782,1997-12-17,CACTU,"Cactus Comidas para llevar",Argentina
+10819,1998-01-07,CACTU,"Cactus Comidas para llevar",Argentina
+10881,1998-02-11,CACTU,"Cactus Comidas para llevar",Argentina
+10937,1998-03-10,CACTU,"Cactus Comidas para llevar",Argentina
+11054,1998-04-28,CACTU,"Cactus Comidas para llevar",Argentina
+10259,1996-07-18,CENTC,"Centro comercial Moctezuma",Mexico
+10254,1996-07-11,CHOPS,"Chop-suey Chinese",Switzerland
+10370,1996-12-03,CHOPS,"Chop-suey Chinese",Switzerland
+10519,1997-04-28,CHOPS,"Chop-suey Chinese",Switzerland
+10731,1997-11-06,CHOPS,"Chop-suey Chinese",Switzerland
+10746,1997-11-19,CHOPS,"Chop-suey Chinese",Switzerland
+10966,1998-03-20,CHOPS,"Chop-suey Chinese",Switzerland
+11029,1998-04-16,CHOPS,"Chop-suey Chinese",Switzerland
+11041,1998-04-22,CHOPS,"Chop-suey Chinese",Switzerland
+10290,1996-08-27,COMMI,"Comrcio Mineiro",Brazil
+10466,1997-03-06,COMMI,"Comrcio Mineiro",Brazil
+10494,1997-04-02,COMMI,"Comrcio Mineiro",Brazil
+10969,1998-03-23,COMMI,"Comrcio Mineiro",Brazil
+11042,1998-04-22,COMMI,"Comrcio Mineiro",Brazil
+10435,1997-02-04,CONSH,"Consolidated Holdings",UK
+10462,1997-03-03,CONSH,"Consolidated Holdings",UK
+10848,1998-01-23,CONSH,"Consolidated Holdings",UK
+10363,1996-11-26,DRACD,"Drachenblut Delikatessen",Germany
+10391,1996-12-23,DRACD,"Drachenblut Delikatessen",Germany
+10797,1997-12-25,DRACD,"Drachenblut Delikatessen",Germany
+10825,1998-01-09,DRACD,"Drachenblut Delikatessen",Germany
+11036,1998-04-20,DRACD,"Drachenblut Delikatessen",Germany
+11067,1998-05-04,DRACD,"Drachenblut Delikatessen",Germany
+10311,1996-09-20,DUMON,"Du monde entier",France
+10609,1997-07-24,DUMON,"Du monde entier",France
+10683,1997-09-26,DUMON,"Du monde entier",France
+10890,1998-02-16,DUMON,"Du monde entier",France
+10364,1996-11-26,EASTC,"Eastern Connection",UK
+10400,1997-01-01,EASTC,"Eastern Connection",UK
+10532,1997-05-09,EASTC,"Eastern Connection",UK
+10726,1997-11-03,EASTC,"Eastern Connection",UK
+10987,1998-03-31,EASTC,"Eastern Connection",UK
+11024,1998-04-15,EASTC,"Eastern Connection",UK
+11047,1998-04-24,EASTC,"Eastern Connection",UK
+11056,1998-04-28,EASTC,"Eastern Connection",UK
+10258,1996-07-17,ERNSH,"Ernst Handel",Austria
+10263,1996-07-23,ERNSH,"Ernst Handel",Austria
+10351,1996-11-11,ERNSH,"Ernst Handel",Austria
+10368,1996-11-29,ERNSH,"Ernst Handel",Austria
+10382,1996-12-13,ERNSH,"Ernst Handel",Austria
+10390,1996-12-23,ERNSH,"Ernst Handel",Austria
+10402,1997-01-02,ERNSH,"Ernst Handel",Austria
+10403,1997-01-03,ERNSH,"Ernst Handel",Austria
+10430,1997-01-30,ERNSH,"Ernst Handel",Austria
+10442,1997-02-11,ERNSH,"Ernst Handel",Austria
+10514,1997-04-22,ERNSH,"Ernst Handel",Austria
+10571,1997-06-17,ERNSH,"Ernst Handel",Austria
+10595,1997-07-10,ERNSH,"Ernst Handel",Austria
+10633,1997-08-15,ERNSH,"Ernst Handel",Austria
+10667,1997-09-12,ERNSH,"Ernst Handel",Austria
+10698,1997-10-09,ERNSH,"Ernst Handel",Austria
+10764,1997-12-03,ERNSH,"Ernst Handel",Austria
+10771,1997-12-10,ERNSH,"Ernst Handel",Austria
+10773,1997-12-11,ERNSH,"Ernst Handel",Austria
+10776,1997-12-15,ERNSH,"Ernst Handel",Austria
+10795,1997-12-24,ERNSH,"Ernst Handel",Austria
+10836,1998-01-16,ERNSH,"Ernst Handel",Austria
+10854,1998-01-27,ERNSH,"Ernst Handel",Austria
+10895,1998-02-18,ERNSH,"Ernst Handel",Austria
+10968,1998-03-23,ERNSH,"Ernst Handel",Austria
+10979,1998-03-26,ERNSH,"Ernst Handel",Austria
+10990,1998-04-01,ERNSH,"Ernst Handel",Austria
+11008,1998-04-08,ERNSH,"Ernst Handel",Austria
+11017,1998-04-13,ERNSH,"Ernst Handel",Austria
+11072,1998-05-05,ERNSH,"Ernst Handel",Austria
+10347,1996-11-06,FAMIA,"Familia Arquibaldo",Brazil
+10386,1996-12-18,FAMIA,"Familia Arquibaldo",Brazil
+10414,1997-01-14,FAMIA,"Familia Arquibaldo",Brazil
+10512,1997-04-21,FAMIA,"Familia Arquibaldo",Brazil
+10581,1997-06-26,FAMIA,"Familia Arquibaldo",Brazil
+10650,1997-08-29,FAMIA,"Familia Arquibaldo",Brazil
+10725,1997-10-31,FAMIA,"Familia Arquibaldo",Brazil
+10408,1997-01-08,FOLIG,"Folies gourmandes",France
+10480,1997-03-20,FOLIG,"Folies gourmandes",France
+10634,1997-08-15,FOLIG,"Folies gourmandes",France
+10763,1997-12-03,FOLIG,"Folies gourmandes",France
+10789,1997-12-22,FOLIG,"Folies gourmandes",France
+10264,1996-07-24,FOLKO,"Folk och f HB",Sweden
+10327,1996-10-11,FOLKO,"Folk och f HB",Sweden
+10378,1996-12-10,FOLKO,"Folk och f HB",Sweden
+10434,1997-02-03,FOLKO,"Folk och f HB",Sweden
+10460,1997-02-28,FOLKO,"Folk och f HB",Sweden
+10533,1997-05-12,FOLKO,"Folk och f HB",Sweden
+10561,1997-06-06,FOLKO,"Folk och f HB",Sweden
+10703,1997-10-14,FOLKO,"Folk och f HB",Sweden
+10762,1997-12-02,FOLKO,"Folk och f HB",Sweden
+10774,1997-12-11,FOLKO,"Folk och f HB",Sweden
+10824,1998-01-09,FOLKO,"Folk och f HB",Sweden
+10880,1998-02-10,FOLKO,"Folk och f HB",Sweden
+10902,1998-02-23,FOLKO,"Folk och f HB",Sweden
+10955,1998-03-17,FOLKO,"Folk och f HB",Sweden
+10977,1998-03-26,FOLKO,"Folk och f HB",Sweden
+10980,1998-03-27,FOLKO,"Folk och f HB",Sweden
+10993,1998-04-01,FOLKO,"Folk och f HB",Sweden
+11001,1998-04-06,FOLKO,"Folk och f HB",Sweden
+11050,1998-04-27,FOLKO,"Folk och f HB",Sweden
+10267,1996-07-29,FRANK,Frankenversand,Germany
+10337,1996-10-24,FRANK,Frankenversand,Germany
+10342,1996-10-30,FRANK,Frankenversand,Germany
+10396,1996-12-27,FRANK,Frankenversand,Germany
+10488,1997-03-27,FRANK,Frankenversand,Germany
+10560,1997-06-06,FRANK,Frankenversand,Germany
+10623,1997-08-07,FRANK,Frankenversand,Germany
+10653,1997-09-02,FRANK,Frankenversand,Germany
+10670,1997-09-16,FRANK,Frankenversand,Germany
+10675,1997-09-19,FRANK,Frankenversand,Germany
+10717,1997-10-24,FRANK,Frankenversand,Germany
+10791,1997-12-23,FRANK,Frankenversand,Germany
+10859,1998-01-29,FRANK,Frankenversand,Germany
+10929,1998-03-05,FRANK,Frankenversand,Germany
+11012,1998-04-09,FRANK,Frankenversand,Germany
+10671,1997-09-17,FRANR,"France restauration",France
+10860,1998-01-29,FRANR,"France restauration",France
+10971,1998-03-24,FRANR,"France restauration",France
+10422,1997-01-22,FRANS,"Franchi S.p.A.",Italy
+10710,1997-10-20,FRANS,"Franchi S.p.A.",Italy
+10753,1997-11-25,FRANS,"Franchi S.p.A.",Italy
+10807,1997-12-31,FRANS,"Franchi S.p.A.",Italy
+11026,1998-04-15,FRANS,"Franchi S.p.A.",Italy
+11060,1998-04-30,FRANS,"Franchi S.p.A.",Italy
+10328,1996-10-14,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10352,1996-11-12,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10464,1997-03-04,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10491,1997-03-31,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10551,1997-05-28,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10604,1997-07-18,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10664,1997-09-10,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10963,1998-03-19,FURIB,"Furia Bacalhau e Frutos do Mar",Portugal
+10366,1996-11-28,GALED,"Galera del gastrnomo",Spain
+10426,1997-01-27,GALED,"Galera del gastrnomo",Spain
+10568,1997-06-13,GALED,"Galera del gastrnomo",Spain
+10887,1998-02-13,GALED,"Galera del gastrnomo",Spain
+10928,1998-03-05,GALED,"Galera del gastrnomo",Spain
+10303,1996-09-11,GODOS,"Godos Cocina Tpica",Spain
+10550,1997-05-28,GODOS,"Godos Cocina Tpica",Spain
+10629,1997-08-12,GODOS,"Godos Cocina Tpica",Spain
+10872,1998-02-05,GODOS,"Godos Cocina Tpica",Spain
+10874,1998-02-06,GODOS,"Godos Cocina Tpica",Spain
+10888,1998-02-16,GODOS,"Godos Cocina Tpica",Spain
+10911,1998-02-26,GODOS,"Godos Cocina Tpica",Spain
+10948,1998-03-13,GODOS,"Godos Cocina Tpica",Spain
+11009,1998-04-08,GODOS,"Godos Cocina Tpica",Spain
+11037,1998-04-21,GODOS,"Godos Cocina Tpica",Spain
+10423,1997-01-23,GOURL,"Gourmet Lanchonetes",Brazil
+10652,1997-09-01,GOURL,"Gourmet Lanchonetes",Brazil
+10685,1997-09-29,GOURL,"Gourmet Lanchonetes",Brazil
+10709,1997-10-17,GOURL,"Gourmet Lanchonetes",Brazil
+10734,1997-11-07,GOURL,"Gourmet Lanchonetes",Brazil
+10777,1997-12-15,GOURL,"Gourmet Lanchonetes",Brazil
+10790,1997-12-22,GOURL,"Gourmet Lanchonetes",Brazil
+10959,1998-03-18,GOURL,"Gourmet Lanchonetes",Brazil
+11049,1998-04-24,GOURL,"Gourmet Lanchonetes",Brazil
+10528,1997-05-06,GREAL,"Great Lakes Food Market",USA
+10589,1997-07-04,GREAL,"Great Lakes Food Market",USA
+10616,1997-07-31,GREAL,"Great Lakes Food Market",USA
+10617,1997-07-31,GREAL,"Great Lakes Food Market",USA
+10656,1997-09-04,GREAL,"Great Lakes Food Market",USA
+10681,1997-09-25,GREAL,"Great Lakes Food Market",USA
+10816,1998-01-06,GREAL,"Great Lakes Food Market",USA
+10936,1998-03-09,GREAL,"Great Lakes Food Market",USA
+11006,1998-04-07,GREAL,"Great Lakes Food Market",USA
+11040,1998-04-22,GREAL,"Great Lakes Food Market",USA
+11061,1998-04-30,GREAL,"Great Lakes Food Market",USA
+10268,1996-07-30,GROSR,GROSELLA-Restaurante,Venezuela
+10785,1997-12-18,GROSR,GROSELLA-Restaurante,Venezuela
+10250,1996-07-08,HANAR,"Hanari Carnes",Brazil
+10253,1996-07-10,HANAR,"Hanari Carnes",Brazil
+10541,1997-05-19,HANAR,"Hanari Carnes",Brazil
+10645,1997-08-26,HANAR,"Hanari Carnes",Brazil
+10690,1997-10-02,HANAR,"Hanari Carnes",Brazil
+10770,1997-12-09,HANAR,"Hanari Carnes",Brazil
+10783,1997-12-18,HANAR,"Hanari Carnes",Brazil
+10886,1998-02-13,HANAR,"Hanari Carnes",Brazil
+10903,1998-02-24,HANAR,"Hanari Carnes",Brazil
+10922,1998-03-03,HANAR,"Hanari Carnes",Brazil
+10925,1998-03-04,HANAR,"Hanari Carnes",Brazil
+10981,1998-03-27,HANAR,"Hanari Carnes",Brazil
+11022,1998-04-14,HANAR,"Hanari Carnes",Brazil
+11052,1998-04-27,HANAR,"Hanari Carnes",Brazil
+10257,1996-07-16,HILAA,HILARION-Abastos,Venezuela
+10395,1996-12-26,HILAA,HILARION-Abastos,Venezuela
+10476,1997-03-17,HILAA,HILARION-Abastos,Venezuela
+10486,1997-03-26,HILAA,HILARION-Abastos,Venezuela
+10490,1997-03-31,HILAA,HILARION-Abastos,Venezuela
+10498,1997-04-07,HILAA,HILARION-Abastos,Venezuela
+10552,1997-05-29,HILAA,HILARION-Abastos,Venezuela
+10601,1997-07-16,HILAA,HILARION-Abastos,Venezuela
+10613,1997-07-29,HILAA,HILARION-Abastos,Venezuela
+10641,1997-08-22,HILAA,HILARION-Abastos,Venezuela
+10705,1997-10-15,HILAA,HILARION-Abastos,Venezuela
+10796,1997-12-25,HILAA,HILARION-Abastos,Venezuela
+10863,1998-02-02,HILAA,HILARION-Abastos,Venezuela
+10901,1998-02-23,HILAA,HILARION-Abastos,Venezuela
+10957,1998-03-18,HILAA,HILARION-Abastos,Venezuela
+10960,1998-03-19,HILAA,HILARION-Abastos,Venezuela
+10976,1998-03-25,HILAA,HILARION-Abastos,Venezuela
+11055,1998-04-28,HILAA,HILARION-Abastos,Venezuela
+10375,1996-12-06,HUNGC,"Hungry Coyote Import Store",USA
+10394,1996-12-25,HUNGC,"Hungry Coyote Import Store",USA
+10415,1997-01-15,HUNGC,"Hungry Coyote Import Store",USA
+10600,1997-07-16,HUNGC,"Hungry Coyote Import Store",USA
+10660,1997-09-08,HUNGC,"Hungry Coyote Import Store",USA
+10298,1996-09-05,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10309,1996-09-19,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10335,1996-10-22,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10373,1996-12-05,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10380,1996-12-12,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10429,1997-01-29,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10503,1997-04-11,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10516,1997-04-24,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10567,1997-06-12,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10646,1997-08-27,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10661,1997-09-09,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10687,1997-09-30,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10701,1997-10-13,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10712,1997-10-21,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10736,1997-11-11,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10897,1998-02-19,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10912,1998-02-26,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10985,1998-03-30,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+11063,1998-04-30,HUNGO,"Hungry Owl All-Night Grocers",Ireland
+10315,1996-09-26,ISLAT,"Island Trading",UK
+10318,1996-10-01,ISLAT,"Island Trading",UK
+10321,1996-10-03,ISLAT,"Island Trading",UK
+10473,1997-03-13,ISLAT,"Island Trading",UK
+10621,1997-08-05,ISLAT,"Island Trading",UK
+10674,1997-09-18,ISLAT,"Island Trading",UK
+10749,1997-11-20,ISLAT,"Island Trading",UK
+10798,1997-12-26,ISLAT,"Island Trading",UK
+10829,1998-01-13,ISLAT,"Island Trading",UK
+10933,1998-03-06,ISLAT,"Island Trading",UK
+10323,1996-10-07,KOENE,"Kniglich Essen",Germany
+10325,1996-10-09,KOENE,"Kniglich Essen",Germany
+10456,1997-02-25,KOENE,"Kniglich Essen",Germany
+10457,1997-02-25,KOENE,"Kniglich Essen",Germany
+10468,1997-03-07,KOENE,"Kniglich Essen",Germany
+10506,1997-04-15,KOENE,"Kniglich Essen",Germany
+10542,1997-05-20,KOENE,"Kniglich Essen",Germany
+10630,1997-08-13,KOENE,"Kniglich Essen",Germany
+10718,1997-10-27,KOENE,"Kniglich Essen",Germany
+10799,1997-12-26,KOENE,"Kniglich Essen",Germany
+10817,1998-01-06,KOENE,"Kniglich Essen",Germany
+10849,1998-01-23,KOENE,"Kniglich Essen",Germany
+10893,1998-02-18,KOENE,"Kniglich Essen",Germany
+11028,1998-04-16,KOENE,"Kniglich Essen",Germany
+10858,1998-01-29,LACOR,"La corne d'abondance",France
+10927,1998-03-05,LACOR,"La corne d'abondance",France
+10972,1998-03-24,LACOR,"La corne d'abondance",France
+10973,1998-03-24,LACOR,"La corne d'abondance",France
+10350,1996-11-11,LAMAI,"La maison d'Asie",France
+10358,1996-11-20,LAMAI,"La maison d'Asie",France
+10371,1996-12-03,LAMAI,"La maison d'Asie",France
+10413,1997-01-14,LAMAI,"La maison d'Asie",France
+10425,1997-01-24,LAMAI,"La maison d'Asie",France
+10454,1997-02-21,LAMAI,"La maison d'Asie",France
+10493,1997-04-02,LAMAI,"La maison d'Asie",France
+10500,1997-04-09,LAMAI,"La maison d'Asie",France
+10610,1997-07-25,LAMAI,"La maison d'Asie",France
+10631,1997-08-14,LAMAI,"La maison d'Asie",France
+10787,1997-12-19,LAMAI,"La maison d'Asie",France
+10832,1998-01-14,LAMAI,"La maison d'Asie",France
+10923,1998-03-03,LAMAI,"La maison d'Asie",France
+11051,1998-04-27,LAMAI,"La maison d'Asie",France
+10495,1997-04-03,LAUGB,"Laughing Bacchus Wine Cellars",Canada
+10620,1997-08-05,LAUGB,"Laughing Bacchus Wine Cellars",Canada
+10810,1998-01-01,LAUGB,"Laughing Bacchus Wine Cellars",Canada
+10482,1997-03-21,LAZYK,"Lazy K Kountry Store",USA
+10545,1997-05-22,LAZYK,"Lazy K Kountry Store",USA
+10279,1996-08-13,LEHMS,"Lehmanns Marktstand",Germany
+10284,1996-08-19,LEHMS,"Lehmanns Marktstand",Germany
+10343,1996-10-31,LEHMS,"Lehmanns Marktstand",Germany
+10497,1997-04-04,LEHMS,"Lehmanns Marktstand",Germany
+10522,1997-04-30,LEHMS,"Lehmanns Marktstand",Germany
+10534,1997-05-12,LEHMS,"Lehmanns Marktstand",Germany
+10536,1997-05-14,LEHMS,"Lehmanns Marktstand",Germany
+10557,1997-06-03,LEHMS,"Lehmanns Marktstand",Germany
+10592,1997-07-08,LEHMS,"Lehmanns Marktstand",Germany
+10593,1997-07-09,LEHMS,"Lehmanns Marktstand",Germany
+10772,1997-12-10,LEHMS,"Lehmanns Marktstand",Germany
+10862,1998-01-30,LEHMS,"Lehmanns Marktstand",Germany
+10891,1998-02-17,LEHMS,"Lehmanns Marktstand",Germany
+10934,1998-03-09,LEHMS,"Lehmanns Marktstand",Germany
+11070,1998-05-05,LEHMS,"Lehmanns Marktstand",Germany
+10579,1997-06-25,LETSS,"Let's Stop N Shop",USA
+10719,1997-10-27,LETSS,"Let's Stop N Shop",USA
+10735,1997-11-10,LETSS,"Let's Stop N Shop",USA
+10884,1998-02-12,LETSS,"Let's Stop N Shop",USA
+10283,1996-08-16,LILAS,LILA-Supermercado,Venezuela
+10296,1996-09-03,LILAS,LILA-Supermercado,Venezuela
+10330,1996-10-16,LILAS,LILA-Supermercado,Venezuela
+10357,1996-11-19,LILAS,LILA-Supermercado,Venezuela
+10381,1996-12-12,LILAS,LILA-Supermercado,Venezuela
+10461,1997-02-28,LILAS,LILA-Supermercado,Venezuela
+10499,1997-04-08,LILAS,LILA-Supermercado,Venezuela
+10543,1997-05-21,LILAS,LILA-Supermercado,Venezuela
+10780,1997-12-16,LILAS,LILA-Supermercado,Venezuela
+10823,1998-01-09,LILAS,LILA-Supermercado,Venezuela
+10899,1998-02-20,LILAS,LILA-Supermercado,Venezuela
+10997,1998-04-03,LILAS,LILA-Supermercado,Venezuela
+11065,1998-05-01,LILAS,LILA-Supermercado,Venezuela
+11071,1998-05-05,LILAS,LILA-Supermercado,Venezuela
+10405,1997-01-06,LINOD,LINO-Delicateses,Venezuela
+10485,1997-03-25,LINOD,LINO-Delicateses,Venezuela
+10638,1997-08-20,LINOD,LINO-Delicateses,Venezuela
+10697,1997-10-08,LINOD,LINO-Delicateses,Venezuela
+10729,1997-11-04,LINOD,LINO-Delicateses,Venezuela
+10811,1998-01-02,LINOD,LINO-Delicateses,Venezuela
+10838,1998-01-19,LINOD,LINO-Delicateses,Venezuela
+10840,1998-01-19,LINOD,LINO-Delicateses,Venezuela
+10919,1998-03-02,LINOD,LINO-Delicateses,Venezuela
+10954,1998-03-17,LINOD,LINO-Delicateses,Venezuela
+11014,1998-04-10,LINOD,LINO-Delicateses,Venezuela
+11039,1998-04-21,LINOD,LINO-Delicateses,Venezuela
+10307,1996-09-17,LONEP,"Lonesome Pine Restaurant",USA
+10317,1996-09-30,LONEP,"Lonesome Pine Restaurant",USA
+10544,1997-05-21,LONEP,"Lonesome Pine Restaurant",USA
+10662,1997-09-09,LONEP,"Lonesome Pine Restaurant",USA
+10665,1997-09-11,LONEP,"Lonesome Pine Restaurant",USA
+10867,1998-02-03,LONEP,"Lonesome Pine Restaurant",USA
+10883,1998-02-12,LONEP,"Lonesome Pine Restaurant",USA
+11018,1998-04-13,LONEP,"Lonesome Pine Restaurant",USA
+10275,1996-08-07,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10300,1996-09-09,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10404,1997-01-03,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10467,1997-03-06,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10635,1997-08-18,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10754,1997-11-25,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10784,1997-12-18,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10818,1998-01-07,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10939,1998-03-10,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10950,1998-03-16,MAGAA,"Magazzini Alimentari Riuniti",Italy
+10529,1997-05-07,MAISD,"Maison Dewey",Belgium
+10649,1997-08-28,MAISD,"Maison Dewey",Belgium
+10760,1997-12-01,MAISD,"Maison Dewey",Belgium
+10892,1998-02-17,MAISD,"Maison Dewey",Belgium
+10896,1998-02-19,MAISD,"Maison Dewey",Belgium
+10978,1998-03-26,MAISD,"Maison Dewey",Belgium
+11004,1998-04-07,MAISD,"Maison Dewey",Belgium
+10332,1996-10-17,MEREP,"Mre Paillarde",Canada
+10339,1996-10-28,MEREP,"Mre Paillarde",Canada
+10376,1996-12-09,MEREP,"Mre Paillarde",Canada
+10424,1997-01-23,MEREP,"Mre Paillarde",Canada
+10439,1997-02-07,MEREP,"Mre Paillarde",Canada
+10505,1997-04-14,MEREP,"Mre Paillarde",Canada
+10565,1997-06-11,MEREP,"Mre Paillarde",Canada
+10570,1997-06-17,MEREP,"Mre Paillarde",Canada
+10590,1997-07-07,MEREP,"Mre Paillarde",Canada
+10605,1997-07-21,MEREP,"Mre Paillarde",Canada
+10618,1997-08-01,MEREP,"Mre Paillarde",Canada
+10619,1997-08-04,MEREP,"Mre Paillarde",Canada
+10724,1997-10-30,MEREP,"Mre Paillarde",Canada
+10277,1996-08-09,MORGK,"Morgenstern Gesundkost",Germany
+10575,1997-06-20,MORGK,"Morgenstern Gesundkost",Germany
+10699,1997-10-09,MORGK,"Morgenstern Gesundkost",Germany
+10779,1997-12-16,MORGK,"Morgenstern Gesundkost",Germany
+10945,1998-03-12,MORGK,"Morgenstern Gesundkost",Germany
+10517,1997-04-24,NORTS,North/South,UK
+10752,1997-11-24,NORTS,North/South,UK
+11057,1998-04-29,NORTS,North/South,UK
+10409,1997-01-09,OCEAN,"Ocano Atlntico Ltda.",Argentina
+10531,1997-05-08,OCEAN,"Ocano Atlntico Ltda.",Argentina
+10898,1998-02-20,OCEAN,"Ocano Atlntico Ltda.",Argentina
+10958,1998-03-18,OCEAN,"Ocano Atlntico Ltda.",Argentina
+10986,1998-03-30,OCEAN,"Ocano Atlntico Ltda.",Argentina
+10305,1996-09-13,OLDWO,"Old World Delicatessen",USA
+10338,1996-10-25,OLDWO,"Old World Delicatessen",USA
+10441,1997-02-10,OLDWO,"Old World Delicatessen",USA
+10594,1997-07-09,OLDWO,"Old World Delicatessen",USA
+10680,1997-09-24,OLDWO,"Old World Delicatessen",USA
+10706,1997-10-16,OLDWO,"Old World Delicatessen",USA
+10808,1998-01-01,OLDWO,"Old World Delicatessen",USA
+10855,1998-01-27,OLDWO,"Old World Delicatessen",USA
+10965,1998-03-20,OLDWO,"Old World Delicatessen",USA
+11034,1998-04-20,OLDWO,"Old World Delicatessen",USA
+10260,1996-07-19,OTTIK,"Ottilies Kseladen",Germany
+10407,1997-01-07,OTTIK,"Ottilies Kseladen",Germany
+10508,1997-04-16,OTTIK,"Ottilies Kseladen",Germany
+10554,1997-05-30,OTTIK,"Ottilies Kseladen",Germany
+10580,1997-06-26,OTTIK,"Ottilies Kseladen",Germany
+10684,1997-09-26,OTTIK,"Ottilies Kseladen",Germany
+10766,1997-12-05,OTTIK,"Ottilies Kseladen",Germany
+10833,1998-01-15,OTTIK,"Ottilies Kseladen",Germany
+10999,1998-04-03,OTTIK,"Ottilies Kseladen",Germany
+11020,1998-04-14,OTTIK,"Ottilies Kseladen",Germany
+10322,1996-10-04,PERIC,"Pericles Comidas clsicas",Mexico
+10354,1996-11-14,PERIC,"Pericles Comidas clsicas",Mexico
+10474,1997-03-13,PERIC,"Pericles Comidas clsicas",Mexico
+10502,1997-04-10,PERIC,"Pericles Comidas clsicas",Mexico
+10995,1998-04-02,PERIC,"Pericles Comidas clsicas",Mexico
+11073,1998-05-05,PERIC,"Pericles Comidas clsicas",Mexico
+10353,1996-11-13,PICCO,"Piccolo und mehr",Austria
+10392,1996-12-24,PICCO,"Piccolo und mehr",Austria
+10427,1997-01-27,PICCO,"Piccolo und mehr",Austria
+10489,1997-03-28,PICCO,"Piccolo und mehr",Austria
+10530,1997-05-08,PICCO,"Piccolo und mehr",Austria
+10597,1997-07-11,PICCO,"Piccolo und mehr",Austria
+10686,1997-09-30,PICCO,"Piccolo und mehr",Austria
+10747,1997-11-19,PICCO,"Piccolo und mehr",Austria
+10844,1998-01-21,PICCO,"Piccolo und mehr",Austria
+11053,1998-04-27,PICCO,"Piccolo und mehr",Austria
+10336,1996-10-23,PRINI,"Princesa Isabel Vinhos",Portugal
+10397,1996-12-27,PRINI,"Princesa Isabel Vinhos",Portugal
+10433,1997-02-03,PRINI,"Princesa Isabel Vinhos",Portugal
+10477,1997-03-17,PRINI,"Princesa Isabel Vinhos",Portugal
+11007,1998-04-08,PRINI,"Princesa Isabel Vinhos",Portugal
+10261,1996-07-19,QUEDE,"Que Delcia",Brazil
+10291,1996-08-27,QUEDE,"Que Delcia",Brazil
+10379,1996-12-11,QUEDE,"Que Delcia",Brazil
+10421,1997-01-21,QUEDE,"Que Delcia",Brazil
+10587,1997-07-02,QUEDE,"Que Delcia",Brazil
+10647,1997-08-27,QUEDE,"Que Delcia",Brazil
+10720,1997-10-28,QUEDE,"Que Delcia",Brazil
+10794,1997-12-24,QUEDE,"Que Delcia",Brazil
+10989,1998-03-31,QUEDE,"Que Delcia",Brazil
+10372,1996-12-04,QUEEN,"Queen Cozinha",Brazil
+10406,1997-01-07,QUEEN,"Queen Cozinha",Brazil
+10487,1997-03-26,QUEEN,"Queen Cozinha",Brazil
+10637,1997-08-19,QUEEN,"Queen Cozinha",Brazil
+10659,1997-09-05,QUEEN,"Queen Cozinha",Brazil
+10704,1997-10-14,QUEEN,"Queen Cozinha",Brazil
+10728,1997-11-04,QUEEN,"Queen Cozinha",Brazil
+10786,1997-12-19,QUEEN,"Queen Cozinha",Brazil
+10868,1998-02-04,QUEEN,"Queen Cozinha",Brazil
+10913,1998-02-26,QUEEN,"Queen Cozinha",Brazil
+10914,1998-02-27,QUEEN,"Queen Cozinha",Brazil
+10961,1998-03-19,QUEEN,"Queen Cozinha",Brazil
+11068,1998-05-04,QUEEN,"Queen Cozinha",Brazil
+10273,1996-08-05,QUICK,QUICK-Stop,Germany
+10285,1996-08-20,QUICK,QUICK-Stop,Germany
+10286,1996-08-21,QUICK,QUICK-Stop,Germany
+10313,1996-09-24,QUICK,QUICK-Stop,Germany
+10345,1996-11-04,QUICK,QUICK-Stop,Germany
+10361,1996-11-22,QUICK,QUICK-Stop,Germany
+10418,1997-01-17,QUICK,QUICK-Stop,Germany
+10451,1997-02-19,QUICK,QUICK-Stop,Germany
+10515,1997-04-23,QUICK,QUICK-Stop,Germany
+10527,1997-05-05,QUICK,QUICK-Stop,Germany
+10540,1997-05-19,QUICK,QUICK-Stop,Germany
+10549,1997-05-27,QUICK,QUICK-Stop,Germany
+10588,1997-07-03,QUICK,QUICK-Stop,Germany
+10658,1997-09-05,QUICK,QUICK-Stop,Germany
+10691,1997-10-03,QUICK,QUICK-Stop,Germany
+10694,1997-10-06,QUICK,QUICK-Stop,Germany
+10721,1997-10-29,QUICK,QUICK-Stop,Germany
+10745,1997-11-18,QUICK,QUICK-Stop,Germany
+10765,1997-12-04,QUICK,QUICK-Stop,Germany
+10788,1997-12-22,QUICK,QUICK-Stop,Germany
+10845,1998-01-21,QUICK,QUICK-Stop,Germany
+10865,1998-02-02,QUICK,QUICK-Stop,Germany
+10878,1998-02-10,QUICK,QUICK-Stop,Germany
+10938,1998-03-10,QUICK,QUICK-Stop,Germany
+10962,1998-03-19,QUICK,QUICK-Stop,Germany
+10991,1998-04-01,QUICK,QUICK-Stop,Germany
+10996,1998-04-02,QUICK,QUICK-Stop,Germany
+11021,1998-04-14,QUICK,QUICK-Stop,Germany
+10448,1997-02-17,RANCH,"Rancho grande",Argentina
+10716,1997-10-24,RANCH,"Rancho grande",Argentina
+10828,1998-01-13,RANCH,"Rancho grande",Argentina
+10916,1998-02-27,RANCH,"Rancho grande",Argentina
+11019,1998-04-13,RANCH,"Rancho grande",Argentina
+10262,1996-07-22,RATTC,"Rattlesnake Canyon Grocery",USA
+10272,1996-08-02,RATTC,"Rattlesnake Canyon Grocery",USA
+10294,1996-08-30,RATTC,"Rattlesnake Canyon Grocery",USA
+10314,1996-09-25,RATTC,"Rattlesnake Canyon Grocery",USA
+10316,1996-09-27,RATTC,"Rattlesnake Canyon Grocery",USA
+10346,1996-11-05,RATTC,"Rattlesnake Canyon Grocery",USA
+10401,1997-01-01,RATTC,"Rattlesnake Canyon Grocery",USA
+10479,1997-03-19,RATTC,"Rattlesnake Canyon Grocery",USA
+10564,1997-06-10,RATTC,"Rattlesnake Canyon Grocery",USA
+10569,1997-06-16,RATTC,"Rattlesnake Canyon Grocery",USA
+10598,1997-07-14,RATTC,"Rattlesnake Canyon Grocery",USA
+10761,1997-12-02,RATTC,"Rattlesnake Canyon Grocery",USA
+10820,1998-01-07,RATTC,"Rattlesnake Canyon Grocery",USA
+10852,1998-01-26,RATTC,"Rattlesnake Canyon Grocery",USA
+10889,1998-02-16,RATTC,"Rattlesnake Canyon Grocery",USA
+10988,1998-03-31,RATTC,"Rattlesnake Canyon Grocery",USA
+11000,1998-04-06,RATTC,"Rattlesnake Canyon Grocery",USA
+11077,1998-05-06,RATTC,"Rattlesnake Canyon Grocery",USA
+10288,1996-08-23,REGGC,"Reggiani Caseifici",Italy
+10428,1997-01-28,REGGC,"Reggiani Caseifici",Italy
+10443,1997-02-12,REGGC,"Reggiani Caseifici",Italy
+10562,1997-06-09,REGGC,"Reggiani Caseifici",Italy
+10586,1997-07-02,REGGC,"Reggiani Caseifici",Italy
+10655,1997-09-03,REGGC,"Reggiani Caseifici",Italy
+10727,1997-11-03,REGGC,"Reggiani Caseifici",Italy
+10812,1998-01-02,REGGC,"Reggiani Caseifici",Italy
+10908,1998-02-26,REGGC,"Reggiani Caseifici",Italy
+10942,1998-03-11,REGGC,"Reggiani Caseifici",Italy
+11010,1998-04-09,REGGC,"Reggiani Caseifici",Italy
+11062,1998-04-30,REGGC,"Reggiani Caseifici",Italy
+10287,1996-08-22,RICAR,"Ricardo Adocicados",Brazil
+10299,1996-09-06,RICAR,"Ricardo Adocicados",Brazil
+10447,1997-02-14,RICAR,"Ricardo Adocicados",Brazil
+10481,1997-03-20,RICAR,"Ricardo Adocicados",Brazil
+10563,1997-06-10,RICAR,"Ricardo Adocicados",Brazil
+10622,1997-08-06,RICAR,"Ricardo Adocicados",Brazil
+10648,1997-08-28,RICAR,"Ricardo Adocicados",Brazil
+10813,1998-01-05,RICAR,"Ricardo Adocicados",Brazil
+10851,1998-01-26,RICAR,"Ricardo Adocicados",Brazil
+10877,1998-02-09,RICAR,"Ricardo Adocicados",Brazil
+11059,1998-04-29,RICAR,"Ricardo Adocicados",Brazil
+10255,1996-07-12,RICSU,"Richter Supermarkt",Switzerland
+10419,1997-01-20,RICSU,"Richter Supermarkt",Switzerland
+10537,1997-05-14,RICSU,"Richter Supermarkt",Switzerland
+10666,1997-09-12,RICSU,"Richter Supermarkt",Switzerland
+10751,1997-11-24,RICSU,"Richter Supermarkt",Switzerland
+10758,1997-11-28,RICSU,"Richter Supermarkt",Switzerland
+10931,1998-03-06,RICSU,"Richter Supermarkt",Switzerland
+10951,1998-03-16,RICSU,"Richter Supermarkt",Switzerland
+11033,1998-04-17,RICSU,"Richter Supermarkt",Switzerland
+11075,1998-05-06,RICSU,"Richter Supermarkt",Switzerland
+10281,1996-08-14,ROMEY,"Romero y tomillo",Spain
+10282,1996-08-15,ROMEY,"Romero y tomillo",Spain
+10306,1996-09-16,ROMEY,"Romero y tomillo",Spain
+10917,1998-03-02,ROMEY,"Romero y tomillo",Spain
+11013,1998-04-09,ROMEY,"Romero y tomillo",Spain
+10387,1996-12-18,SANTG,"Sant Gourmet",Norway
+10520,1997-04-29,SANTG,"Sant Gourmet",Norway
+10639,1997-08-20,SANTG,"Sant Gourmet",Norway
+10831,1998-01-14,SANTG,"Sant Gourmet",Norway
+10909,1998-02-26,SANTG,"Sant Gourmet",Norway
+11015,1998-04-10,SANTG,"Sant Gourmet",Norway
+10324,1996-10-08,SAVEA,"Save-a-lot Markets",USA
+10393,1996-12-25,SAVEA,"Save-a-lot Markets",USA
+10398,1996-12-30,SAVEA,"Save-a-lot Markets",USA
+10440,1997-02-10,SAVEA,"Save-a-lot Markets",USA
+10452,1997-02-20,SAVEA,"Save-a-lot Markets",USA
+10510,1997-04-18,SAVEA,"Save-a-lot Markets",USA
+10555,1997-06-02,SAVEA,"Save-a-lot Markets",USA
+10603,1997-07-18,SAVEA,"Save-a-lot Markets",USA
+10607,1997-07-22,SAVEA,"Save-a-lot Markets",USA
+10612,1997-07-28,SAVEA,"Save-a-lot Markets",USA
+10627,1997-08-11,SAVEA,"Save-a-lot Markets",USA
+10657,1997-09-04,SAVEA,"Save-a-lot Markets",USA
+10678,1997-09-23,SAVEA,"Save-a-lot Markets",USA
+10700,1997-10-10,SAVEA,"Save-a-lot Markets",USA
+10711,1997-10-21,SAVEA,"Save-a-lot Markets",USA
+10713,1997-10-22,SAVEA,"Save-a-lot Markets",USA
+10714,1997-10-22,SAVEA,"Save-a-lot Markets",USA
+10722,1997-10-29,SAVEA,"Save-a-lot Markets",USA
+10748,1997-11-20,SAVEA,"Save-a-lot Markets",USA
+10757,1997-11-27,SAVEA,"Save-a-lot Markets",USA
+10815,1998-01-05,SAVEA,"Save-a-lot Markets",USA
+10847,1998-01-22,SAVEA,"Save-a-lot Markets",USA
+10882,1998-02-11,SAVEA,"Save-a-lot Markets",USA
+10894,1998-02-18,SAVEA,"Save-a-lot Markets",USA
+10941,1998-03-11,SAVEA,"Save-a-lot Markets",USA
+10983,1998-03-27,SAVEA,"Save-a-lot Markets",USA
+10984,1998-03-30,SAVEA,"Save-a-lot Markets",USA
+11002,1998-04-06,SAVEA,"Save-a-lot Markets",USA
+11030,1998-04-17,SAVEA,"Save-a-lot Markets",USA
+11031,1998-04-17,SAVEA,"Save-a-lot Markets",USA
+11064,1998-05-01,SAVEA,"Save-a-lot Markets",USA
+10359,1996-11-21,SEVES,"Seven Seas Imports",UK
+10377,1996-12-09,SEVES,"Seven Seas Imports",UK
+10388,1996-12-19,SEVES,"Seven Seas Imports",UK
+10472,1997-03-12,SEVES,"Seven Seas Imports",UK
+10523,1997-05-01,SEVES,"Seven Seas Imports",UK
+10547,1997-05-23,SEVES,"Seven Seas Imports",UK
+10800,1997-12-26,SEVES,"Seven Seas Imports",UK
+10804,1997-12-30,SEVES,"Seven Seas Imports",UK
+10869,1998-02-04,SEVES,"Seven Seas Imports",UK
+10341,1996-10-29,SIMOB,"Simons bistro",Denmark
+10417,1997-01-16,SIMOB,"Simons bistro",Denmark
+10556,1997-06-03,SIMOB,"Simons bistro",Denmark
+10642,1997-08-22,SIMOB,"Simons bistro",Denmark
+10669,1997-09-15,SIMOB,"Simons bistro",Denmark
+10802,1997-12-29,SIMOB,"Simons bistro",Denmark
+11074,1998-05-06,SIMOB,"Simons bistro",Denmark
+10738,1997-11-12,SPECD,"Spcialits du monde",France
+10907,1998-02-25,SPECD,"Spcialits du monde",France
+10964,1998-03-20,SPECD,"Spcialits du monde",France
+11043,1998-04-22,SPECD,"Spcialits du monde",France
+10271,1996-08-01,SPLIR,"Split Rail Beer & Ale",USA
+10329,1996-10-15,SPLIR,"Split Rail Beer & Ale",USA
+10349,1996-11-08,SPLIR,"Split Rail Beer & Ale",USA
+10369,1996-12-02,SPLIR,"Split Rail Beer & Ale",USA
+10385,1996-12-17,SPLIR,"Split Rail Beer & Ale",USA
+10432,1997-01-31,SPLIR,"Split Rail Beer & Ale",USA
+10756,1997-11-27,SPLIR,"Split Rail Beer & Ale",USA
+10821,1998-01-08,SPLIR,"Split Rail Beer & Ale",USA
+10974,1998-03-25,SPLIR,"Split Rail Beer & Ale",USA
+10252,1996-07-09,SUPRD,"Suprmes dlices",Belgium
+10302,1996-09-10,SUPRD,"Suprmes dlices",Belgium
+10458,1997-02-26,SUPRD,"Suprmes dlices",Belgium
+10463,1997-03-04,SUPRD,"Suprmes dlices",Belgium
+10475,1997-03-14,SUPRD,"Suprmes dlices",Belgium
+10767,1997-12-05,SUPRD,"Suprmes dlices",Belgium
+10841,1998-01-20,SUPRD,"Suprmes dlices",Belgium
+10846,1998-01-22,SUPRD,"Suprmes dlices",Belgium
+10885,1998-02-12,SUPRD,"Suprmes dlices",Belgium
+10930,1998-03-06,SUPRD,"Suprmes dlices",Belgium
+11035,1998-04-20,SUPRD,"Suprmes dlices",Belgium
+11038,1998-04-21,SUPRD,"Suprmes dlices",Belgium
+10310,1996-09-20,THEBI,"The Big Cheese",USA
+10708,1997-10-17,THEBI,"The Big Cheese",USA
+10805,1997-12-30,THEBI,"The Big Cheese",USA
+10992,1998-04-01,THEBI,"The Big Cheese",USA
+10624,1997-08-07,THECR,"The Cracker Box",USA
+10775,1997-12-12,THECR,"The Cracker Box",USA
+11003,1998-04-06,THECR,"The Cracker Box",USA
+10249,1996-07-05,TOMSP,"Toms Spezialitten",Germany
+10438,1997-02-06,TOMSP,"Toms Spezialitten",Germany
+10446,1997-02-14,TOMSP,"Toms Spezialitten",Germany
+10548,1997-05-26,TOMSP,"Toms Spezialitten",Germany
+10608,1997-07-23,TOMSP,"Toms Spezialitten",Germany
+10967,1998-03-23,TOMSP,"Toms Spezialitten",Germany
+10276,1996-08-08,TORTU,"Tortuga Restaurante",Mexico
+10293,1996-08-29,TORTU,"Tortuga Restaurante",Mexico
+10304,1996-09-12,TORTU,"Tortuga Restaurante",Mexico
+10319,1996-10-02,TORTU,"Tortuga Restaurante",Mexico
+10518,1997-04-25,TORTU,"Tortuga Restaurante",Mexico
+10576,1997-06-23,TORTU,"Tortuga Restaurante",Mexico
+10676,1997-09-22,TORTU,"Tortuga Restaurante",Mexico
+10842,1998-01-20,TORTU,"Tortuga Restaurante",Mexico
+10915,1998-02-27,TORTU,"Tortuga Restaurante",Mexico
+11069,1998-05-04,TORTU,"Tortuga Restaurante",Mexico
+10292,1996-08-28,TRADH,"Tradio Hipermercados",Brazil
+10496,1997-04-04,TRADH,"Tradio Hipermercados",Brazil
+10606,1997-07-22,TRADH,"Tradio Hipermercados",Brazil
+10830,1998-01-13,TRADH,"Tradio Hipermercados",Brazil
+10834,1998-01-15,TRADH,"Tradio Hipermercados",Brazil
+10839,1998-01-19,TRADH,"Tradio Hipermercados",Brazil
+10574,1997-06-19,TRAIH,"Trail's Head Gourmet Provisioners",USA
+10577,1997-06-23,TRAIH,"Trail's Head Gourmet Provisioners",USA
+10822,1998-01-08,TRAIH,"Trail's Head Gourmet Provisioners",USA
+10367,1996-11-28,VAFFE,Vaffeljernet,Denmark
+10399,1996-12-31,VAFFE,Vaffeljernet,Denmark
+10465,1997-03-05,VAFFE,Vaffeljernet,Denmark
+10591,1997-07-07,VAFFE,Vaffeljernet,Denmark
+10602,1997-07-17,VAFFE,Vaffeljernet,Denmark
+10688,1997-10-01,VAFFE,Vaffeljernet,Denmark
+10744,1997-11-17,VAFFE,Vaffeljernet,Denmark
+10769,1997-12-08,VAFFE,Vaffeljernet,Denmark
+10921,1998-03-03,VAFFE,Vaffeljernet,Denmark
+10946,1998-03-12,VAFFE,Vaffeljernet,Denmark
+10994,1998-04-02,VAFFE,Vaffeljernet,Denmark
+10251,1996-07-08,VICTE,"Victuailles en stock",France
+10334,1996-10-21,VICTE,"Victuailles en stock",France
+10450,1997-02-19,VICTE,"Victuailles en stock",France
+10459,1997-02-27,VICTE,"Victuailles en stock",France
+10478,1997-03-18,VICTE,"Victuailles en stock",France
+10546,1997-05-23,VICTE,"Victuailles en stock",France
+10806,1997-12-31,VICTE,"Victuailles en stock",France
+10814,1998-01-05,VICTE,"Victuailles en stock",France
+10843,1998-01-21,VICTE,"Victuailles en stock",France
+10850,1998-01-23,VICTE,"Victuailles en stock",France
+10248,1996-07-04,VINET,"Vins et alcools Chevalier",France
+10274,1996-08-06,VINET,"Vins et alcools Chevalier",France
+10295,1996-09-02,VINET,"Vins et alcools Chevalier",France
+10737,1997-11-11,VINET,"Vins et alcools Chevalier",France
+10739,1997-11-12,VINET,"Vins et alcools Chevalier",France
+10301,1996-09-09,WANDK,"Die Wandernde Kuh",Germany
+10312,1996-09-23,WANDK,"Die Wandernde Kuh",Germany
+10348,1996-11-07,WANDK,"Die Wandernde Kuh",Germany
+10356,1996-11-18,WANDK,"Die Wandernde Kuh",Germany
+10513,1997-04-22,WANDK,"Die Wandernde Kuh",Germany
+10632,1997-08-14,WANDK,"Die Wandernde Kuh",Germany
+10640,1997-08-21,WANDK,"Die Wandernde Kuh",Germany
+10651,1997-09-01,WANDK,"Die Wandernde Kuh",Germany
+10668,1997-09-15,WANDK,"Die Wandernde Kuh",Germany
+11046,1998-04-23,WANDK,"Die Wandernde Kuh",Germany
+10266,1996-07-26,WARTH,"Wartian Herkku",Finland
+10270,1996-08-01,WARTH,"Wartian Herkku",Finland
+10320,1996-10-03,WARTH,"Wartian Herkku",Finland
+10333,1996-10-18,WARTH,"Wartian Herkku",Finland
+10412,1997-01-13,WARTH,"Wartian Herkku",Finland
+10416,1997-01-16,WARTH,"Wartian Herkku",Finland
+10437,1997-02-05,WARTH,"Wartian Herkku",Finland
+10455,1997-02-24,WARTH,"Wartian Herkku",Finland
+10526,1997-05-05,WARTH,"Wartian Herkku",Finland
+10553,1997-05-30,WARTH,"Wartian Herkku",Finland
+10583,1997-06-30,WARTH,"Wartian Herkku",Finland
+10636,1997-08-19,WARTH,"Wartian Herkku",Finland
+10750,1997-11-21,WARTH,"Wartian Herkku",Finland
+10781,1997-12-17,WARTH,"Wartian Herkku",Finland
+11025,1998-04-15,WARTH,"Wartian Herkku",Finland
+10256,1996-07-15,WELLI,"Wellington Importadora",Brazil
+10420,1997-01-21,WELLI,"Wellington Importadora",Brazil
+10585,1997-07-01,WELLI,"Wellington Importadora",Brazil
+10644,1997-08-25,WELLI,"Wellington Importadora",Brazil
+10803,1997-12-30,WELLI,"Wellington Importadora",Brazil
+10809,1998-01-01,WELLI,"Wellington Importadora",Brazil
+10900,1998-02-20,WELLI,"Wellington Importadora",Brazil
+10905,1998-02-24,WELLI,"Wellington Importadora",Brazil
+10935,1998-03-09,WELLI,"Wellington Importadora",Brazil
+10269,1996-07-31,WHITC,"White Clover Markets",USA
+10344,1996-11-01,WHITC,"White Clover Markets",USA
+10469,1997-03-10,WHITC,"White Clover Markets",USA
+10483,1997-03-24,WHITC,"White Clover Markets",USA
+10504,1997-04-11,WHITC,"White Clover Markets",USA
+10596,1997-07-11,WHITC,"White Clover Markets",USA
+10693,1997-10-06,WHITC,"White Clover Markets",USA
+10696,1997-10-08,WHITC,"White Clover Markets",USA
+10723,1997-10-30,WHITC,"White Clover Markets",USA
+10740,1997-11-13,WHITC,"White Clover Markets",USA
+10861,1998-01-30,WHITC,"White Clover Markets",USA
+10904,1998-02-24,WHITC,"White Clover Markets",USA
+11032,1998-04-17,WHITC,"White Clover Markets",USA
+11066,1998-05-01,WHITC,"White Clover Markets",USA
+10615,1997-07-30,WILMK,"Wilman Kala",Finland
+10673,1997-09-18,WILMK,"Wilman Kala",Finland
+10695,1997-10-07,WILMK,"Wilman Kala",Finland
+10873,1998-02-06,WILMK,"Wilman Kala",Finland
+10879,1998-02-10,WILMK,"Wilman Kala",Finland
+10910,1998-02-26,WILMK,"Wilman Kala",Finland
+11005,1998-04-07,WILMK,"Wilman Kala",Finland
+10374,1996-12-05,WOLZA,"Wolski  Zajazd",Poland
+10611,1997-07-25,WOLZA,"Wolski  Zajazd",Poland
+10792,1997-12-23,WOLZA,"Wolski  Zajazd",Poland
+10870,1998-02-04,WOLZA,"Wolski  Zajazd",Poland
+10906,1998-02-25,WOLZA,"Wolski  Zajazd",Poland
+10998,1998-04-03,WOLZA,"Wolski  Zajazd",Poland
+11044,1998-04-23,WOLZA,"Wolski  Zajazd",Poland

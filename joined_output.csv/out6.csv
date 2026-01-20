@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CompanyName,Country,ProductName,Quantity,UnitPrice,Discount
+10643,1997-08-25,"Alfreds Futterkiste",Germany,"Rssle Sauerkraut",15,45.60,0.00
+10643,1997-08-25,"Alfreds Futterkiste",Germany,"Chartreuse verte",21,18.00,0.00
+10643,1997-08-25,"Alfreds Futterkiste",Germany,Spegesild,2,12.00,0.00
+10692,1997-10-03,"Alfreds Futterkiste",Germany,Vegie-spread,20,43.90,0.00
+10702,1997-10-13,"Alfreds Futterkiste",Germany,"Aniseed Syrup",6,10.00,0.00
+10702,1997-10-13,"Alfreds Futterkiste",Germany,Lakkalikri,15,18.00,0.00
+10835,1998-01-15,"Alfreds Futterkiste",Germany,"Raclette Courdavault",15,55.00,0.00
+10835,1998-01-15,"Alfreds Futterkiste",Germany,"Original Frankfurter grne Soe",2,13.00,0.00
+10952,1998-03-16,"Alfreds Futterkiste",Germany,"Grandma's Boysenberry Spread",16,25.00,0.00
+10952,1998-03-16,"Alfreds Futterkiste",Germany,"Rssle Sauerkraut",2,45.60,0.00
+11011,1998-04-09,"Alfreds Futterkiste",Germany,"Escargots de Bourgogne",40,13.25,0.00
+11011,1998-04-09,"Alfreds Futterkiste",Germany,Flotemysost,20,21.50,0.00
+10308,1996-09-18,"Ana Trujillo Emparedados y helados",Mexico,Gudbrandsdalsost,1,28.80,0.00
+10308,1996-09-18,"Ana Trujillo Emparedados y helados",Mexico,"Outback Lager",5,12.00,0.00
+10625,1997-08-08,"Ana Trujillo Emparedados y helados",Mexico,Tofu,3,23.25,0.00
+10625,1997-08-08,"Ana Trujillo Emparedados y helados",Mexico,"Singaporean Hokkien Fried Mee",5,14.00,0.00
+10625,1997-08-08,"Ana Trujillo Emparedados y helados",Mexico,"Camembert Pierrot",10,34.00,0.00
+10759,1997-11-28,"Ana Trujillo Emparedados y helados",Mexico,"Mascarpone Fabioli",10,32.00,0.00
+10926,1998-03-04,"Ana Trujillo Emparedados y helados",Mexico,"Queso Cabrales",2,21.00,0.00
+10926,1998-03-04,"Ana Trujillo Emparedados y helados",Mexico,Konbu,10,6.00,0.00
+10926,1998-03-04,"Ana Trujillo Emparedados y helados",Mexico,"Teatime Chocolate Biscuits",7,9.20,0.00
+10926,1998-03-04,"Ana Trujillo Emparedados y helados",Mexico,"Mozzarella di Giovanni",10,34.80,0.00
+10365,1996-11-27,"Antonio Moreno Taquera",Mexico,"Queso Cabrales",24,16.80,0.00
+10507,1997-04-15,"Antonio Moreno Taquera",Mexico,"Ipoh Coffee",15,46.00,0.00
+10507,1997-04-15,"Antonio Moreno Taquera",Mexico,Chocolade,15,12.75,0.00
+10535,1997-05-13,"Antonio Moreno Taquera",Mexico,"Queso Cabrales",50,21.00,0.00
+10535,1997-05-13,"Antonio Moreno Taquera",Mexico,"Boston Crab Meat",10,18.40,0.00
+10535,1997-05-13,"Antonio Moreno Taquera",Mexico,"Ravioli Angelo",5,19.50,0.00
+10535,1997-05-13,"Antonio Moreno Taquera",Mexico,"Raclette Courdavault",15,55.00,0.00
+10573,1997-06-19,"Antonio Moreno Taquera",Mexico,"Alice Mutton",18,39.00,0.00
+10573,1997-06-19,"Antonio Moreno Taquera",Mexico,"Sasquatch Ale",40,14.00,0.00
+10573,1997-06-19,"Antonio Moreno Taquera",Mexico,"Perth Pasties",25,32.80,0.00
+10677,1997-09-22,"Antonio Moreno Taquera",Mexico,"Gumbr Gummibrchen",30,31.23,0.00
+10677,1997-09-22,"Antonio Moreno Taquera",Mexico,Geitost,8,2.50,0.00
+10682,1997-09-25,"Antonio Moreno Taquera",Mexico,Geitost,30,2.50,0.00
+10682,1997-09-25,"Antonio Moreno Taquera",Mexico,"Louisiana Hot Spiced Okra",4,17.00,0.00
+10682,1997-09-25,"Antonio Moreno Taquera",Mexico,"Rhnbru Klosterbier",30,7.75,0.00
+10856,1998-01-28,"Antonio Moreno Taquera",Mexico,Chang,20,19.00,0.00
+10856,1998-01-28,"Antonio Moreno Taquera",Mexico,"Singaporean Hokkien Fried Mee",20,14.00,0.00
+10355,1996-11-15,"Around the Horn",UK,"Guaran Fantstica",25,3.60,0.00
+10355,1996-11-15,"Around the Horn",UK,"Ravioli Angelo",25,15.60,0.00
+10383,1996-12-16,"Around the Horn",UK,Konbu,20,4.80,0.00
+10383,1996-12-16,"Around the Horn",UK,"Valkoinen suklaa",15,13.00,0.00
+10383,1996-12-16,"Around the Horn",UK,"Gnocchi di nonna Alice",20,30.40,0.00
+10453,1997-02-21,"Around the Horn",UK,Chocolade,15,10.20,0.00
+10453,1997-02-21,"Around the Horn",UK,"Outback Lager",25,12.00,0.00
+10558,1997-06-04,"Around the Horn",UK,"Zaanse koeken",25,9.50,0.00
+10558,1997-06-04,"Around the Horn",UK,"Manjimup Dried Apples",20,53.00,0.00
+10558,1997-06-04,"Around the Horn",UK,"Filo Mix",30,7.00,0.00
+10558,1997-06-04,"Around the Horn",UK,"Perth Pasties",18,32.80,0.00
+10558,1997-06-04,"Around the Horn",UK,"Rd Kaviar",3,15.00,0.00
+10707,1997-10-16,"Around the Horn",UK,"Pt chinois",21,24.00,0.00
+10707,1997-10-16,"Around the Horn",UK,"Ravioli Angelo",40,19.50,0.00
+10707,1997-10-16,"Around the Horn",UK,"Outback Lager",28,15.00,0.00
+10741,1997-11-14,"Around the Horn",UK,Chang,15,19.00,0.00
+10743,1997-11-17,"Around the Horn",UK,Spegesild,28,12.00,0.00
+10768,1997-12-08,"Around the Horn",UK,"Gustaf's Knckebrd",4,21.00,0.00
+10768,1997-12-08,"Around the Horn",UK,"Gorgonzola Telino",50,12.50,0.00
+10768,1997-12-08,"Around the Horn",UK,"Camembert Pierrot",15,34.00,0.00
+10768,1997-12-08,"Around the Horn",UK,Flotemysost,12,21.50,0.00
+10793,1997-12-24,"Around the Horn",UK,"Jack's New England Clam Chowder",14,9.65,0.00
+10793,1997-12-24,"Around the Horn",UK,"Filo Mix",8,7.00,0.00
+10864,1998-02-02,"Around the Horn",UK,"Steeleye Stout",4,18.00,0.00
+10864,1998-02-02,"Around the Horn",UK,"Laughing Lumberjack Lager",15,14.00,0.00
+10920,1998-03-03,"Around the Horn",UK,"Valkoinen suklaa",24,16.25,0.00
+10953,1998-03-16,"Around the Horn",UK,"Sir Rodney's Marmalade",50,81.00,0.00
+10953,1998-03-16,"Around the Horn",UK,"Gorgonzola Telino",50,12.50,0.00
+11016,1998-04-10,"Around the Horn",UK,"Gorgonzola Telino",15,12.50,0.00
+11016,1998-04-10,"Around the Horn",UK,"Inlagd Sill",16,19.00,0.00
+10278,1996-08-12,"Berglunds snabbkp",Sweden,"Gula Malacca",16,15.50,0.00
+10278,1996-08-12,"Berglunds snabbkp",Sweden,"Raclette Courdavault",15,44.00,0.00
+10278,1996-08-12,"Berglunds snabbkp",Sweden,Vegie-spread,8,35.10,0.00
+10278,1996-08-12,"Berglunds snabbkp",Sweden,"Rd Kaviar",25,12.00,0.00
+10280,1996-08-14,"Berglunds snabbkp",Sweden,"Guaran Fantstica",12,3.60,0.00
+10280,1996-08-14,"Berglunds snabbkp",Sweden,"Pt chinois",20,19.20,0.00
+10280,1996-08-14,"Berglunds snabbkp",Sweden,"Rhnbru Klosterbier",30,6.20,0.00
+10384,1996-12-16,"Berglunds snabbkp",Sweden,"Sir Rodney's Marmalade",28,64.80,0.00
+10384,1996-12-16,"Berglunds snabbkp",Sweden,"Camembert Pierrot",15,27.20,0.00
+10444,1997-02-12,"Berglunds snabbkp",Sweden,"Alice Mutton",10,31.20,0.00
+10444,1997-02-12,"Berglunds snabbkp",Sweden,"Gumbr Gummibrchen",15,24.90,0.00
+10444,1997-02-12,"Berglunds snabbkp",Sweden,"Steeleye Stout",8,14.40,0.00
+10444,1997-02-12,"Berglunds snabbkp",Sweden,"Jack's New England Clam Chowder",30,7.70,0.00
+10445,1997-02-13,"Berglunds snabbkp",Sweden,"Chartreuse verte",6,14.40,0.00
+10445,1997-02-13,"Berglunds snabbkp",Sweden,Tourtire,15,5.90,0.00
+10524,1997-05-01,"Berglunds snabbkp",Sweden,Ikura,2,31.00,0.00
+10524,1997-05-01,"Berglunds snabbkp",Sweden,"Nord-Ost Matjeshering",10,25.89,0.00
+10524,1997-05-01,"Berglunds snabbkp",Sweden,"Ipoh Coffee",60,46.00,0.00
+10524,1997-05-01,"Berglunds snabbkp",Sweden,Tourtire,15,7.45,0.00
+10572,1997-06-18,"Berglunds snabbkp",Sweden,Pavlova,12,17.45,0.00
+10572,1997-06-18,"Berglunds snabbkp",Sweden,"Mascarpone Fabioli",10,32.00,0.00
+10572,1997-06-18,"Berglunds snabbkp",Sweden,"Boston Crab Meat",50,18.40,0.00
+10572,1997-06-18,"Berglunds snabbkp",Sweden,"Rhnbru Klosterbier",15,7.75,0.00
+10626,1997-08-11,"Berglunds snabbkp",Sweden,"Perth Pasties",12,32.80,0.00
+10626,1997-08-11,"Berglunds snabbkp",Sweden,"Camembert Pierrot",20,34.00,0.00
+10626,1997-08-11,"Berglunds snabbkp",Sweden,Flotemysost,20,21.50,0.00
+10654,1997-09-02,"Berglunds snabbkp",Sweden,"Chef Anton's Cajun Seasoning",12,22.00,0.00
+10654,1997-09-02,"Berglunds snabbkp",Sweden,"Chartreuse verte",20,18.00,0.00
+10654,1997-09-02,"Berglunds snabbkp",Sweden,Tourtire,6,7.45,0.00
+10672,1997-09-17,"Berglunds snabbkp",Sweden,"Cte de Blaye",15,263.50,0.00
+10672,1997-09-17,"Berglunds snabbkp",Sweden,Flotemysost,12,21.50,0.00
+10689,1997-10-01,"Berglunds snabbkp",Sweden,Chai,35,18.00,0.00
+10733,1997-11-07,"Berglunds snabbkp",Sweden,Tofu,16,23.25,0.00
+10733,1997-11-07,"Berglunds snabbkp",Sweden,"Rssle Sauerkraut",20,45.60,0.00
+10733,1997-11-07,"Berglunds snabbkp",Sweden,"Filo Mix",25,7.00,0.00
+10778,1997-12-16,"Berglunds snabbkp",Sweden,"Jack's New England Clam Chowder",10,9.65,0.00
+10837,1998-01-16,"Berglunds snabbkp",Sweden,Konbu,6,6.00,0.00
+10837,1998-01-16,"Berglunds snabbkp",Sweden,"Boston Crab Meat",25,18.40,0.00
+10837,1998-01-16,"Berglunds snabbkp",Sweden,"Zaanse koeken",40,9.50,0.00
+10837,1998-01-16,"Berglunds snabbkp",Sweden,Lakkalikri,21,18.00,0.00
+10857,1998-01-28,"Berglunds snabbkp",Sweden,"Aniseed Syrup",30,10.00,0.00
+10857,1998-01-28,"Berglunds snabbkp",Sweden,"Gumbr Gummibrchen",35,31.23,0.00
+10857,1998-01-28,"Berglunds snabbkp",Sweden,"Thringer Rostbratwurst",10,123.79,0.00
+10866,1998-02-03,"Berglunds snabbkp",Sweden,Chang,21,19.00,0.00
+10866,1998-02-03,"Berglunds snabbkp",Sweden,"Guaran Fantstica",6,4.50,0.00
+10866,1998-02-03,"Berglunds snabbkp",Sweden,"Nord-Ost Matjeshering",40,25.89,0.00
+10875,1998-02-06,"Berglunds snabbkp",Sweden,"Teatime Chocolate Biscuits",25,9.20,0.00
+10875,1998-02-06,"Berglunds snabbkp",Sweden,"Zaanse koeken",21,9.50,0.00
+10875,1998-02-06,"Berglunds snabbkp",Sweden,Maxilaku,15,20.00,0.00
+10924,1998-03-04,"Berglunds snabbkp",Sweden,Ikura,20,31.00,0.00
+10924,1998-03-04,"Berglunds snabbkp",Sweden,"Rssle Sauerkraut",30,45.60,0.00
+10924,1998-03-04,"Berglunds snabbkp",Sweden,"Rhnbru Klosterbier",6,7.75,0.00
+10501,1997-04-09,"Blauer See Delikatessen",Germany,Tourtire,20,7.45,0.00
+10509,1997-04-17,"Blauer See Delikatessen",Germany,"Rssle Sauerkraut",3,45.60,0.00
+10582,1997-06-27,"Blauer See Delikatessen",Germany,"Ravioli Angelo",4,19.50,0.00
+10582,1997-06-27,"Blauer See Delikatessen",Germany,Lakkalikri,14,18.00,0.00
+10614,1997-07-29,"Blauer See Delikatessen",Germany,"Queso Cabrales",14,21.00,0.00
+10614,1997-07-29,"Blauer See Delikatessen",Germany,"Sir Rodney's Scones",8,10.00,0.00
+10614,1997-07-29,"Blauer See Delikatessen",Germany,"Chartreuse verte",5,18.00,0.00
+10853,1998-01-27,"Blauer See Delikatessen",Germany,"Carnarvon Tigers",10,62.50,0.00
+10956,1998-03-17,"Blauer See Delikatessen",Germany,"Sir Rodney's Scones",12,10.00,0.00
+10956,1998-03-17,"Blauer See Delikatessen",Germany,"Zaanse koeken",14,9.50,0.00
+10956,1998-03-17,"Blauer See Delikatessen",Germany,"Manjimup Dried Apples",8,53.00,0.00
+11058,1998-04-29,"Blauer See Delikatessen",Germany,"Sir Rodney's Scones",3,10.00,0.00
+11058,1998-04-29,"Blauer See Delikatessen",Germany,"Camembert Pierrot",21,34.00,0.00
+11058,1998-04-29,"Blauer See Delikatessen",Germany,"Sirop d'rable",4,28.50,0.00
+10265,1996-07-25,"Blondesddsl pre et fils",France,"Alice Mutton",30,31.20,0.00
+10265,1996-07-25,"Blondesddsl pre et fils",France,"Outback Lager",20,12.00,0.00
+10297,1996-09-04,"Blondesddsl pre et fils",France,"Chartreuse verte",60,14.40,0.00
+10297,1996-09-04,"Blondesddsl pre et fils",France,"Mozzarella di Giovanni",20,27.80,0.00
+10360,1996-11-22,"Blondesddsl pre et fils",France,"Rssle Sauerkraut",30,36.40,0.00
+10360,1996-11-22,"Blondesddsl pre et fils",France,"Thringer Rostbratwurst",35,99.00,0.00
+10360,1996-11-22,"Blondesddsl pre et fils",France,"Cte de Blaye",10,210.80,0.00
+10360,1996-11-22,"Blondesddsl pre et fils",France,Maxilaku,35,16.00,0.00
+10360,1996-11-22,"Blondesddsl pre et fils",France,Tourtire,28,5.90,0.00
+10436,1997-02-05,"Blondesddsl pre et fils",France,Spegesild,5,9.60,0.00
+10436,1997-02-05,"Blondesddsl pre et fils",France,"Gnocchi di nonna Alice",40,30.40,0.00
+10436,1997-02-05,"Blondesddsl pre et fils",France,"Wimmers gute Semmelkndel",30,26.60,0.00
+10436,1997-02-05,"Blondesddsl pre et fils",France,"Rhnbru Klosterbier",24,6.20,0.00
+10449,1997-02-18,"Blondesddsl pre et fils",France,Ikura,14,24.80,0.00
+10449,1997-02-18,"Blondesddsl pre et fils",France,"Filo Mix",20,5.60,0.00
+10449,1997-02-18,"Blondesddsl pre et fils",France,"Tarte au sucre",35,39.40,0.00
+10559,1997-06-05,"Blondesddsl pre et fils",France,"Jack's New England Clam Chowder",12,9.65,0.00
+10559,1997-06-05,"Blondesddsl pre et fils",France,"Pt chinois",18,24.00,0.00
+10566,1997-06-12,"Blondesddsl pre et fils",France,"Queso Cabrales",35,21.00,0.00
+10566,1997-06-12,"Blondesddsl pre et fils",France,"Carnarvon Tigers",18,62.50,0.00
+10566,1997-06-12,"Blondesddsl pre et fils",France,Lakkalikri,10,18.00,0.00
+10584,1997-06-30,"Blondesddsl pre et fils",France,"Gorgonzola Telino",50,12.50,0.00
+10628,1997-08-12,"Blondesddsl pre et fils",France,Chai,25,18.00,0.00
+10679,1997-09-23,"Blondesddsl pre et fils",France,"Raclette Courdavault",12,55.00,0.00
+10826,1998-01-12,"Blondesddsl pre et fils",France,"Gorgonzola Telino",35,12.50,0.00
+10826,1998-01-12,"Blondesddsl pre et fils",France,"Ravioli Angelo",15,19.50,0.00
+10326,1996-10-10,"Blido Comidas preparadas",Spain,"Chef Anton's Cajun Seasoning",24,17.60,0.00
+10326,1996-10-10,"Blido Comidas preparadas",Spain,"Ravioli Angelo",16,15.60,0.00
+10326,1996-10-10,"Blido Comidas preparadas",Spain,"Rhnbru Klosterbier",50,6.20,0.00
+10801,1997-12-29,"Blido Comidas preparadas",Spain,"Alice Mutton",40,39.00,0.00
+10801,1997-12-29,"Blido Comidas preparadas",Spain,"Thringer Rostbratwurst",20,123.79,0.00
+10970,1998-03-24,"Blido Comidas preparadas",Spain,"Filo Mix",40,7.00,0.00
+10331,1996-10-16,"Bon app'",France,Tourtire,15,5.90,0.00
+10340,1996-10-29,"Bon app'",France,"Carnarvon Tigers",20,50.00,0.00
+10340,1996-10-29,"Bon app'",France,"Jack's New England Clam Chowder",12,7.70,0.00
+10340,1996-10-29,"Bon app'",France,"Ipoh Coffee",40,36.80,0.00
+10362,1996-11-25,"Bon app'",France,"NuNuCa Nu-Nougat-Creme",50,11.20,0.00
+10362,1996-11-25,"Bon app'",France,"Manjimup Dried Apples",20,42.40,0.00
+10362,1996-11-25,"Bon app'",France,Tourtire,24,5.90,0.00
+10470,1997-03-11,"Bon app'",France,"Carnarvon Tigers",30,50.00,0.00
+10470,1997-03-11,"Bon app'",France,Tunnbrd,15,7.20,0.00
+10470,1997-03-11,"Bon app'",France,"Wimmers gute Semmelkndel",8,26.60,0.00
+10511,1997-04-18,"Bon app'",France,"Chef Anton's Cajun Seasoning",50,22.00,0.00
+10511,1997-04-18,"Bon app'",France,"Uncle Bob's Organic Dried Pears",50,30.00,0.00
+10511,1997-04-18,"Bon app'",France,"Northwoods Cranberry Sauce",10,40.00,0.00
+10525,1997-05-02,"Bon app'",France,"Inlagd Sill",30,19.00,0.00
+10525,1997-05-02,"Bon app'",France,"Boston Crab Meat",15,18.40,0.00
+10663,1997-09-10,"Bon app'",France,"Boston Crab Meat",30,18.40,0.00
+10663,1997-09-10,"Bon app'",France,"Singaporean Hokkien Fried Mee",30,14.00,0.00
+10663,1997-09-10,"Bon app'",France,"Manjimup Dried Apples",20,53.00,0.00
+10715,1997-10-23,"Bon app'",France,Ikura,21,31.00,0.00
+10715,1997-10-23,"Bon app'",France,Flotemysost,30,21.50,0.00
+10730,1997-11-05,"Bon app'",France,Pavlova,15,17.45,0.00
+10730,1997-11-05,"Bon app'",France,"Gorgonzola Telino",3,12.50,0.00
+10730,1997-11-05,"Bon app'",France,"Louisiana Fiery Hot Pepper Sauce",10,21.05,0.00
+10732,1997-11-06,"Bon app'",France,Lakkalikri,20,18.00,0.00
+10755,1997-11-26,"Bon app'",France,"Zaanse koeken",30,9.50,0.00
+10755,1997-11-26,"Bon app'",France,"Gnocchi di nonna Alice",30,38.00,0.00
+10755,1997-11-26,"Bon app'",France,"Ravioli Angelo",14,19.50,0.00
+10755,1997-11-26,"Bon app'",France,Gudbrandsdalsost,25,36.00,0.00
+10827,1998-01-12,"Bon app'",France,Ikura,15,31.00,0.00
+10827,1998-01-12,"Bon app'",France,"Chartreuse verte",21,18.00,0.00
+10871,1998-02-05,"Bon app'",France,"Grandma's Boysenberry Spread",50,25.00,0.00
+10871,1998-02-05,"Bon app'",France,Pavlova,12,17.45,0.00
+10871,1998-02-05,"Bon app'",France,"Alice Mutton",16,39.00,0.00
+10876,1998-02-09,"Bon app'",France,Spegesild,21,12.00,0.00
+10876,1998-02-09,"Bon app'",France,"Wimmers gute Semmelkndel",20,33.25,0.00
+10932,1998-03-06,"Bon app'",France,Pavlova,30,17.45,0.00
+10932,1998-03-06,"Bon app'",France,"Tarte au sucre",14,49.30,0.00
+10932,1998-03-06,"Bon app'",France,"Mozzarella di Giovanni",16,34.80,0.00
+10932,1998-03-06,"Bon app'",France,"Rhnbru Klosterbier",20,7.75,0.00
+10940,1998-03-11,"Bon app'",France,"Uncle Bob's Organic Dried Pears",8,30.00,0.00
+10940,1998-03-11,"Bon app'",France,Konbu,20,6.00,0.00
+11076,1998-05-06,"Bon app'",France,"Grandma's Boysenberry Spread",20,25.00,0.00
+11076,1998-05-06,"Bon app'",France,Tofu,20,23.25,0.00
+11076,1998-05-06,"Bon app'",France,"Teatime Chocolate Biscuits",10,9.20,0.00
+10389,1996-12-20,"Bottom-Dollar Markets",Canada,Ikura,16,24.80,0.00
+10389,1996-12-20,"Bottom-Dollar Markets",Canada,"Pt chinois",15,19.20,0.00
+10389,1996-12-20,"Bottom-Dollar Markets",Canada,"Tarte au sucre",20,39.40,0.00
+10389,1996-12-20,"Bottom-Dollar Markets",Canada,"Outback Lager",30,12.00,0.00
+10410,1997-01-10,"Bottom-Dollar Markets",Canada,Geitost,49,2.00,0.00
+10410,1997-01-10,"Bottom-Dollar Markets",Canada,"Raclette Courdavault",16,44.00,0.00
+10411,1997-01-10,"Bottom-Dollar Markets",Canada,"Jack's New England Clam Chowder",25,7.70,0.00
+10411,1997-01-10,"Bottom-Dollar Markets",Canada,"Gula Malacca",40,15.50,0.00
+10411,1997-01-10,"Bottom-Dollar Markets",Canada,"Raclette Courdavault",9,44.00,0.00
+10431,1997-01-30,"Bottom-Dollar Markets",Canada,"Alice Mutton",50,31.20,0.00
+10431,1997-01-30,"Bottom-Dollar Markets",Canada,"Boston Crab Meat",50,14.70,0.00
+10431,1997-01-30,"Bottom-Dollar Markets",Canada,"Zaanse koeken",30,7.60,0.00
+10492,1997-04-01,"Bottom-Dollar Markets",Canada,"NuNuCa Nu-Nougat-Creme",60,11.20,0.00
+10492,1997-04-01,"Bottom-Dollar Markets",Canada,"Singaporean Hokkien Fried Mee",20,11.20,0.00
+10742,1997-11-14,"Bottom-Dollar Markets",Canada,"Aniseed Syrup",20,10.00,0.00
+10742,1997-11-14,"Bottom-Dollar Markets",Canada,"Camembert Pierrot",50,34.00,0.00
+10742,1997-11-14,"Bottom-Dollar Markets",Canada,"Mozzarella di Giovanni",35,34.80,0.00
+10918,1998-03-02,"Bottom-Dollar Markets",Canada,Chai,60,18.00,0.00
+10918,1998-03-02,"Bottom-Dollar Markets",Canada,"Camembert Pierrot",25,34.00,0.00
+10944,1998-03-12,"Bottom-Dollar Markets",Canada,"Queso Cabrales",5,21.00,0.00
+10944,1998-03-12,"Bottom-Dollar Markets",Canada,"Gula Malacca",18,19.45,0.00
+10944,1998-03-12,"Bottom-Dollar Markets",Canada,"Gnocchi di nonna Alice",18,38.00,0.00
+10949,1998-03-13,"Bottom-Dollar Markets",Canada,"Grandma's Boysenberry Spread",12,25.00,0.00
+10949,1998-03-13,"Bottom-Dollar Markets",Canada,Ikura,30,31.00,0.00
+10949,1998-03-13,"Bottom-Dollar Markets",Canada,"Alice Mutton",6,39.00,0.00
+10949,1998-03-13,"Bottom-Dollar Markets",Canada,"Tarte au sucre",60,49.30,0.00
+10975,1998-03-25,"Bottom-Dollar Markets",Canada,"Northwoods Cranberry Sauce",16,40.00,0.00
+10975,1998-03-25,"Bottom-Dollar Markets",Canada,"Rhnbru Klosterbier",10,7.75,0.00
+10982,1998-03-27,"Bottom-Dollar Markets",Canada,"Uncle Bob's Organic Dried Pears",20,30.00,0.00
+10982,1998-03-27,"Bottom-Dollar Markets",Canada,"Ipoh Coffee",9,46.00,0.00
+11027,1998-04-16,"Bottom-Dollar Markets",Canada,"Guaran Fantstica",30,4.50,0.00
+11027,1998-04-16,"Bottom-Dollar Markets",Canada,"Tarte au sucre",21,49.30,0.00
+11045,1998-04-23,"Bottom-Dollar Markets",Canada,Geitost,15,2.50,0.00
+11045,1998-04-23,"Bottom-Dollar Markets",Canada,"Manjimup Dried Apples",24,53.00,0.00
+11048,1998-04-24,"Bottom-Dollar Markets",Canada,"Scottish Longbreads",42,12.50,0.00
+10289,1996-08-26,"B's Beverages",UK,"Aniseed Syrup",30,8.00,0.00
+10289,1996-08-26,"B's Beverages",UK,"Wimmers gute Semmelkndel",9,26.60,0.00
+10471,1997-03-11,"B's Beverages",UK,"Uncle Bob's Organic Dried Pears",30,24.00,0.00
+10471,1997-03-11,"B's Beverages",UK,"Gnocchi di nonna Alice",20,30.40,0.00
+10484,1997-03-24,"B's Beverages",UK,"Sir Rodney's Scones",14,8.00,0.00
+10484,1997-03-24,"B's Beverages",UK,"Boston Crab Meat",10,14.70,0.00
+10484,1997-03-24,"B's Beverages",UK,"Manjimup Dried Apples",3,42.40,0.00
+10538,1997-05-15,"B's Beverages",UK,"Outback Lager",7,15.00,0.00
+10538,1997-05-15,"B's Beverages",UK,"Mozzarella di Giovanni",1,34.80,0.00
+10539,1997-05-16,"B's Beverages",UK,Konbu,8,6.00,0.00
+10539,1997-05-16,"B's Beverages",UK,"Sir Rodney's Scones",15,10.00,0.00
+10539,1997-05-16,"B's Beverages",UK,Geitost,15,2.50,0.00
+10539,1997-05-16,"B's Beverages",UK,Maxilaku,6,20.00,0.00
+10578,1997-06-24,"B's Beverages",UK,"Steeleye Stout",20,18.00,0.00
+10578,1997-06-24,"B's Beverages",UK,"Ravioli Angelo",6,19.50,0.00
+10599,1997-07-15,"B's Beverages",UK,"Tarte au sucre",10,49.30,0.00
+10943,1998-03-11,"B's Beverages",UK,Konbu,15,6.00,0.00
+10943,1998-03-11,"B's Beverages",UK,"Gustaf's Knckebrd",21,21.00,0.00
+10943,1998-03-11,"B's Beverages",UK,Spegesild,15,12.00,0.00
+10947,1998-03-13,"B's Beverages",UK,"Raclette Courdavault",4,55.00,0.00
+11023,1998-04-14,"B's Beverages",UK,"Uncle Bob's Organic Dried Pears",4,30.00,0.00
+11023,1998-04-14,"B's Beverages",UK,"Ipoh Coffee",30,46.00,0.00
+10521,1997-04-29,"Cactus Comidas para llevar",Argentina,"Steeleye Stout",3,18.00,0.00
+10521,1997-04-29,"Cactus Comidas para llevar",Argentina,"Jack's New England Clam Chowder",10,9.65,0.00
+10521,1997-04-29,"Cactus Comidas para llevar",Argentina,"Scottish Longbreads",6,12.50,0.00
+10782,1997-12-17,"Cactus Comidas para llevar",Argentina,"Gorgonzola Telino",1,12.50,0.00
+10819,1998-01-07,"Cactus Comidas para llevar",Argentina,"Ipoh Coffee",7,46.00,0.00
+10819,1998-01-07,"Cactus Comidas para llevar",Argentina,"Rhnbru Klosterbier",20,7.75,0.00
+10881,1998-02-11,"Cactus Comidas para llevar",Argentina,"Rd Kaviar",10,15.00,0.00
+10937,1998-03-10,"Cactus Comidas para llevar",Argentina,"Rssle Sauerkraut",8,45.60,0.00
+10937,1998-03-10,"Cactus Comidas para llevar",Argentina,"Sasquatch Ale",20,14.00,0.00
+11054,1998-04-28,"Cactus Comidas para llevar",Argentina,Geitost,10,2.50,0.00
+11054,1998-04-28,"Cactus Comidas para llevar",Argentina,"Laughing Lumberjack Lager",20,14.00,0.00
+10259,1996-07-18,"Centro comercial Moctezuma",Mexico,"Sir Rodney's Scones",10,8.00,0.00
+10259,1996-07-18,"Centro comercial Moctezuma",Mexico,"Gravad lax",1,20.80,0.00
+10254,1996-07-11,"Chop-suey Chinese",Switzerland,"Guaran Fantstica",15,3.60,0.00
+10254,1996-07-11,"Chop-suey Chinese",Switzerland,"Pt chinois",21,19.20,0.00
+10254,1996-07-11,"Chop-suey Chinese",Switzerland,"Longlife Tofu",21,8.00,0.00
+10370,1996-12-03,"Chop-suey Chinese",Switzerland,Chai,15,14.40,0.00
+10370,1996-12-03,"Chop-suey Chinese",Switzerland,"Wimmers gute Semmelkndel",30,26.60,0.00
+10370,1996-12-03,"Chop-suey Chinese",Switzerland,"Longlife Tofu",20,8.00,0.00
+10519,1997-04-28,"Chop-suey Chinese",Switzerland,Ikura,16,31.00,0.00
+10519,1997-04-28,"Chop-suey Chinese",Switzerland,"Gnocchi di nonna Alice",40,38.00,0.00
+10519,1997-04-28,"Chop-suey Chinese",Switzerland,"Camembert Pierrot",10,34.00,0.00
+10731,1997-11-06,"Chop-suey Chinese",Switzerland,"Sir Rodney's Scones",40,10.00,0.00
+10731,1997-11-06,"Chop-suey Chinese",Switzerland,"Manjimup Dried Apples",30,53.00,0.00
+10746,1997-11-19,"Chop-suey Chinese",Switzerland,Konbu,6,6.00,0.00
+10746,1997-11-19,"Chop-suey Chinese",Switzerland,"Singaporean Hokkien Fried Mee",28,14.00,0.00
+10746,1997-11-19,"Chop-suey Chinese",Switzerland,"Tarte au sucre",9,49.30,0.00
+10746,1997-11-19,"Chop-suey Chinese",Switzerland,Gudbrandsdalsost,40,36.00,0.00
+10966,1998-03-20,"Chop-suey Chinese",Switzerland,"Gravad lax",8,26.00,0.00
+10966,1998-03-20,"Chop-suey Chinese",Switzerland,"Gnocchi di nonna Alice",12,38.00,0.00
+10966,1998-03-20,"Chop-suey Chinese",Switzerland,"Tarte au sucre",12,49.30,0.00
+11029,1998-04-16,"Chop-suey Chinese",Switzerland,"Gnocchi di nonna Alice",20,38.00,0.00
+11029,1998-04-16,"Chop-suey Chinese",Switzerland,Vegie-spread,12,43.90,0.00
+11041,1998-04-22,"Chop-suey Chinese",Switzerland,Chang,30,19.00,0.00
+11041,1998-04-22,"Chop-suey Chinese",Switzerland,Vegie-spread,30,43.90,0.00
+10290,1996-08-27,"Comrcio Mineiro",Brazil,"Chef Anton's Gumbo Mix",20,17.00,0.00
+10290,1996-08-27,"Comrcio Mineiro",Brazil,"Thringer Rostbratwurst",15,99.00,0.00
+10290,1996-08-27,"Comrcio Mineiro",Brazil,Maxilaku,15,16.00,0.00
+10290,1996-08-27,"Comrcio Mineiro",Brazil,"Original Frankfurter grne Soe",10,10.40,0.00
+10466,1997-03-06,"Comrcio Mineiro",Brazil,"Queso Cabrales",10,16.80,0.00
+10466,1997-03-06,"Comrcio Mineiro",Brazil,Spegesild,5,9.60,0.00
+10494,1997-04-02,"Comrcio Mineiro",Brazil,"Gnocchi di nonna Alice",30,30.40,0.00
+10969,1998-03-23,"Comrcio Mineiro",Brazil,Spegesild,9,12.00,0.00
+11042,1998-04-22,"Comrcio Mineiro",Brazil,"Gula Malacca",15,19.45,0.00
+11042,1998-04-22,"Comrcio Mineiro",Brazil,"Sirop d'rable",4,28.50,0.00
+10435,1997-02-04,"Consolidated Holdings",UK,Chang,10,15.20,0.00
+10435,1997-02-04,"Consolidated Holdings",UK,"Gustaf's Knckebrd",12,16.80,0.00
+10435,1997-02-04,"Consolidated Holdings",UK,"Mozzarella di Giovanni",10,27.80,0.00
+10462,1997-03-03,"Consolidated Holdings",UK,Konbu,1,4.80,0.00
+10462,1997-03-03,"Consolidated Holdings",UK,Tunnbrd,21,7.20,0.00
+10848,1998-01-23,"Consolidated Holdings",UK,"Chef Anton's Gumbo Mix",30,21.35,0.00
+10848,1998-01-23,"Consolidated Holdings",UK,"Mishi Kobe Niku",3,97.00,0.00
+10363,1996-11-26,"Drachenblut Delikatessen",Germany,"Gorgonzola Telino",20,10.00,0.00
+10363,1996-11-26,"Drachenblut Delikatessen",Germany,"Rhnbru Klosterbier",12,6.20,0.00
+10363,1996-11-26,"Drachenblut Delikatessen",Germany,Lakkalikri,12,14.40,0.00
+10391,1996-12-23,"Drachenblut Delikatessen",Germany,Konbu,18,4.80,0.00
+10797,1997-12-25,"Drachenblut Delikatessen",Germany,"Queso Cabrales",20,21.00,0.00
+10825,1998-01-09,"Drachenblut Delikatessen",Germany,"Gumbr Gummibrchen",12,31.23,0.00
+10825,1998-01-09,"Drachenblut Delikatessen",Germany,"Perth Pasties",20,32.80,0.00
+11036,1998-04-20,"Drachenblut Delikatessen",Germany,Konbu,7,6.00,0.00
+11036,1998-04-20,"Drachenblut Delikatessen",Germany,"Raclette Courdavault",30,55.00,0.00
+11067,1998-05-04,"Drachenblut Delikatessen",Germany,"Jack's New England Clam Chowder",9,9.65,0.00
+10311,1996-09-20,"Du monde entier",France,"Singaporean Hokkien Fried Mee",6,11.20,0.00
+10311,1996-09-20,"Du monde entier",France,Gudbrandsdalsost,7,28.80,0.00
+10609,1997-07-24,"Du monde entier",France,Chai,3,18.00,0.00
+10609,1997-07-24,"Du monde entier",France,Ikura,10,31.00,0.00
+10609,1997-07-24,"Du monde entier",France,"Sir Rodney's Scones",6,10.00,0.00
+10683,1997-09-26,"Du monde entier",France,"Filo Mix",9,7.00,0.00
+10890,1998-02-16,"Du monde entier",France,"Alice Mutton",15,39.00,0.00
+10890,1998-02-16,"Du monde entier",France,"Sasquatch Ale",10,14.00,0.00
+10890,1998-02-16,"Du monde entier",France,"Jack's New England Clam Chowder",14,9.65,0.00
+10364,1996-11-26,"Eastern Connection",UK,Gudbrandsdalsost,30,28.80,0.00
+10364,1996-11-26,"Eastern Connection",UK,Flotemysost,5,17.20,0.00
+10400,1997-01-01,"Eastern Connection",UK,"Thringer Rostbratwurst",21,99.00,0.00
+10400,1997-01-01,"Eastern Connection",UK,"Steeleye Stout",35,14.40,0.00
+10400,1997-01-01,"Eastern Connection",UK,Maxilaku,30,16.00,0.00
+10532,1997-05-09,"Eastern Connection",UK,"Nord-Ost Matjeshering",15,25.89,0.00
+10532,1997-05-09,"Eastern Connection",UK,"Louisiana Hot Spiced Okra",24,17.00,0.00
+10726,1997-11-03,"Eastern Connection",UK,"Chef Anton's Cajun Seasoning",25,22.00,0.00
+10726,1997-11-03,"Eastern Connection",UK,"Queso Cabrales",5,21.00,0.00
+10987,1998-03-31,"Eastern Connection",UK,"Uncle Bob's Organic Dried Pears",60,30.00,0.00
+10987,1998-03-31,"Eastern Connection",UK,"Ipoh Coffee",6,46.00,0.00
+10987,1998-03-31,"Eastern Connection",UK,"Mozzarella di Giovanni",20,34.80,0.00
+11024,1998-04-15,"Eastern Connection",UK,"Gumbr Gummibrchen",12,31.23,0.00
+11024,1998-04-15,"Eastern Connection",UK,Geitost,30,2.50,0.00
+11024,1998-04-15,"Eastern Connection",UK,"Louisiana Fiery Hot Pepper Sauce",21,21.05,0.00
+11024,1998-04-15,"Eastern Connection",UK,Flotemysost,50,21.50,0.00
+11047,1998-04-24,"Eastern Connection",UK,Chai,25,18.00,0.00
+11047,1998-04-24,"Eastern Connection",UK,"Chef Anton's Gumbo Mix",30,21.35,0.00
+11056,1998-04-28,"Eastern Connection",UK,"Uncle Bob's Organic Dried Pears",40,30.00,0.00
+11056,1998-04-28,"Eastern Connection",UK,"Pt chinois",35,24.00,0.00
+11056,1998-04-28,"Eastern Connection",UK,"Camembert Pierrot",50,34.00,0.00
+10258,1996-07-17,"Ernst Handel",Austria,Chang,50,15.20,0.00
+10258,1996-07-17,"Ernst Handel",Austria,"Chef Anton's Gumbo Mix",65,17.00,0.00
+10258,1996-07-17,"Ernst Handel",Austria,"Mascarpone Fabioli",6,25.60,0.00
+10263,1996-07-23,"Ernst Handel",Austria,Pavlova,60,13.90,0.00
+10263,1996-07-23,"Ernst Handel",Austria,"Guaran Fantstica",28,3.60,0.00
+10263,1996-07-23,"Ernst Handel",Austria,"Nord-Ost Matjeshering",60,20.70,0.00
+10263,1996-07-23,"Ernst Handel",Austria,"Longlife Tofu",36,8.00,0.00
+10351,1996-11-11,"Ernst Handel",Austria,"Cte de Blaye",20,210.80,0.00
+10351,1996-11-11,"Ernst Handel",Austria,"Jack's New England Clam Chowder",13,7.70,0.00
+10351,1996-11-11,"Ernst Handel",Austria,"Gula Malacca",77,15.50,0.00
+10351,1996-11-11,"Ernst Handel",Austria,"Louisiana Fiery Hot Pepper Sauce",10,16.80,0.00
+10368,1996-11-29,"Ernst Handel",Austria,"Sir Rodney's Scones",5,8.00,0.00
+10368,1996-11-29,"Ernst Handel",Austria,"Rssle Sauerkraut",13,36.40,0.00
+10368,1996-11-29,"Ernst Handel",Austria,"Ravioli Angelo",25,15.60,0.00
+10368,1996-11-29,"Ernst Handel",Austria,"Wimmers gute Semmelkndel",35,26.60,0.00
+10382,1996-12-13,"Ernst Handel",Austria,"Chef Anton's Gumbo Mix",32,17.00,0.00
+10382,1996-12-13,"Ernst Handel",Austria,"Carnarvon Tigers",9,50.00,0.00
+10382,1996-12-13,"Ernst Handel",Austria,"Thringer Rostbratwurst",14,99.00,0.00
+10382,1996-12-13,"Ernst Handel",Austria,Geitost,60,2.00,0.00
+10382,1996-12-13,"Ernst Handel",Austria,"Longlife Tofu",50,8.00,0.00
+10390,1996-12-23,"Ernst Handel",Austria,"Gorgonzola Telino",60,10.00,0.00
+10390,1996-12-23,"Ernst Handel",Austria,"Steeleye Stout",40,14.40,0.00
+10390,1996-12-23,"Ernst Handel",Austria,Spegesild,45,9.60,0.00
+10390,1996-12-23,"Ernst Handel",Austria,"Mozzarella di Giovanni",24,27.80,0.00
+10402,1997-01-02,"Ernst Handel",Austria,Tunnbrd,60,7.20,0.00
+10402,1997-01-02,"Ernst Handel",Austria,Vegie-spread,65,35.10,0.00
+10403,1997-01-03,"Ernst Handel",Austria,Pavlova,21,13.90,0.00
+10403,1997-01-03,"Ernst Handel",Austria,Chocolade,70,10.20,0.00
+10430,1997-01-30,"Ernst Handel",Austria,"Alice Mutton",45,31.20,0.00
+10430,1997-01-30,"Ernst Handel",Austria,"Sir Rodney's Scones",50,8.00,0.00
+10430,1997-01-30,"Ernst Handel",Austria,"Gnocchi di nonna Alice",30,30.40,0.00
+10430,1997-01-30,"Ernst Handel",Austria,"Raclette Courdavault",70,44.00,0.00
+10442,1997-02-11,"Ernst Handel",Austria,"Queso Cabrales",30,16.80,0.00
+10442,1997-02-11,"Ernst Handel",Austria,Tourtire,80,5.90,0.00
+10442,1997-02-11,"Ernst Handel",Austria,"Louisiana Hot Spiced Okra",60,13.60,0.00
+10514,1997-04-22,"Ernst Handel",Austria,"Sir Rodney's Marmalade",39,81.00,0.00
+10514,1997-04-22,"Ernst Handel",Austria,"Rssle Sauerkraut",35,45.60,0.00
+10514,1997-04-22,"Ernst Handel",Austria,"Gnocchi di nonna Alice",70,38.00,0.00
+10514,1997-04-22,"Ernst Handel",Austria,"Louisiana Fiery Hot Pepper Sauce",39,21.05,0.00
+10514,1997-04-22,"Ernst Handel",Austria,"Rhnbru Klosterbier",50,7.75,0.00
+10571,1997-06-17,"Ernst Handel",Austria,Tofu,11,23.25,0.00
+10571,1997-06-17,"Ernst Handel",Austria,"Singaporean Hokkien Fried Mee",28,14.00,0.00
+10595,1997-07-10,"Ernst Handel",Austria,"Steeleye Stout",30,18.00,0.00
+10595,1997-07-10,"Ernst Handel",Austria,"Sirop d'rable",120,28.50,0.00
+10595,1997-07-10,"Ernst Handel",Austria,Gudbrandsdalsost,65,36.00,0.00
+10633,1997-08-15,"Ernst Handel",Austria,"Queso Manchego La Pastora",36,38.00,0.00
+10633,1997-08-15,"Ernst Handel",Austria,Konbu,13,6.00,0.00
+10633,1997-08-15,"Ernst Handel",Austria,"Gumbr Gummibrchen",35,31.23,0.00
+10633,1997-08-15,"Ernst Handel",Austria,"Tarte au sucre",80,49.30,0.00
+10667,1997-09-12,"Ernst Handel",Austria,Gudbrandsdalsost,45,36.00,0.00
+10667,1997-09-12,"Ernst Handel",Austria,Flotemysost,14,21.50,0.00
+10698,1997-10-09,"Ernst Handel",Austria,"Queso Cabrales",15,21.00,0.00
+10698,1997-10-09,"Ernst Handel",Austria,"Alice Mutton",8,39.00,0.00
+10698,1997-10-09,"Ernst Handel",Austria,"Thringer Rostbratwurst",12,123.79,0.00
+10698,1997-10-09,"Ernst Handel",Austria,"Louisiana Fiery Hot Pepper Sauce",65,21.05,0.00
+10698,1997-10-09,"Ernst Handel",Austria,"Outback Lager",8,15.00,0.00
+10764,1997-12-03,"Ernst Handel",Austria,"Aniseed Syrup",20,10.00,0.00
+10764,1997-12-03,"Ernst Handel",Austria,"Chartreuse verte",130,18.00,0.00
+10771,1997-12-10,"Ernst Handel",Austria,Flotemysost,16,21.50,0.00
+10773,1997-12-11,"Ernst Handel",Austria,"Alice Mutton",33,39.00,0.00
+10773,1997-12-11,"Ernst Handel",Austria,"Gorgonzola Telino",70,12.50,0.00
+10773,1997-12-11,"Ernst Handel",Austria,"Rhnbru Klosterbier",7,7.75,0.00
+10776,1997-12-15,"Ernst Handel",Austria,"Gorgonzola Telino",16,12.50,0.00
+10776,1997-12-15,"Ernst Handel",Austria,"Singaporean Hokkien Fried Mee",12,14.00,0.00
+10776,1997-12-15,"Ernst Handel",Austria,"Rogede sild",27,9.50,0.00
+10776,1997-12-15,"Ernst Handel",Austria,"Manjimup Dried Apples",120,53.00,0.00
+10795,1997-12-24,"Ernst Handel",Austria,Pavlova,65,17.45,0.00
+10795,1997-12-24,"Ernst Handel",Austria,"Alice Mutton",35,39.00,0.00
+10836,1998-01-16,"Ernst Handel",Austria,"Gustaf's Knckebrd",52,21.00,0.00
+10836,1998-01-16,"Ernst Handel",Austria,"Steeleye Stout",6,18.00,0.00
+10836,1998-01-16,"Ernst Handel",Austria,"Ravioli Angelo",24,19.50,0.00
+10836,1998-01-16,"Ernst Handel",Austria,"Camembert Pierrot",60,34.00,0.00
+10836,1998-01-16,"Ernst Handel",Austria,"Wimmers gute Semmelkndel",30,33.25,0.00
+10854,1998-01-27,"Ernst Handel",Austria,Ikura,100,31.00,0.00
+10854,1998-01-27,"Ernst Handel",Austria,Konbu,65,6.00,0.00
+10895,1998-02-18,"Ernst Handel",Austria,"Guaran Fantstica",110,4.50,0.00
+10895,1998-02-18,"Ernst Handel",Austria,"Chartreuse verte",45,18.00,0.00
+10895,1998-02-18,"Ernst Handel",Austria,"Boston Crab Meat",91,18.40,0.00
+10895,1998-02-18,"Ernst Handel",Austria,"Camembert Pierrot",100,34.00,0.00
+10968,1998-03-23,"Ernst Handel",Austria,"Queso Manchego La Pastora",30,38.00,0.00
+10968,1998-03-23,"Ernst Handel",Austria,"Guaran Fantstica",30,4.50,0.00
+10968,1998-03-23,"Ernst Handel",Austria,"Wimmers gute Semmelkndel",4,33.25,0.00
+10979,1998-03-26,"Ernst Handel",Austria,"Uncle Bob's Organic Dried Pears",18,30.00,0.00
+10979,1998-03-26,"Ernst Handel",Austria,"Queso Manchego La Pastora",20,38.00,0.00
+10979,1998-03-26,"Ernst Handel",Austria,"Guaran Fantstica",80,4.50,0.00
+10979,1998-03-26,"Ernst Handel",Austria,"Schoggi Schokolade",30,43.90,0.00
+10979,1998-03-26,"Ernst Handel",Austria,"Gorgonzola Telino",24,12.50,0.00
+10979,1998-03-26,"Ernst Handel",Austria,Vegie-spread,35,43.90,0.00
+10990,1998-04-01,"Ernst Handel",Austria,"Sir Rodney's Scones",65,10.00,0.00
+10990,1998-04-01,"Ernst Handel",Austria,"Sasquatch Ale",60,14.00,0.00
+10990,1998-04-01,"Ernst Handel",Austria,"Pt chinois",65,24.00,0.00
+10990,1998-04-01,"Ernst Handel",Austria,"Sirop d'rable",66,28.50,0.00
+11008,1998-04-08,"Ernst Handel",Austria,"Rssle Sauerkraut",70,45.60,0.00
+11008,1998-04-08,"Ernst Handel",Austria,"Sasquatch Ale",90,14.00,0.00
+11008,1998-04-08,"Ernst Handel",Austria,Flotemysost,21,21.50,0.00
+11017,1998-04-13,"Ernst Handel",Austria,"Aniseed Syrup",25,10.00,0.00
+11017,1998-04-13,"Ernst Handel",Austria,"Raclette Courdavault",110,55.00,0.00
+11017,1998-04-13,"Ernst Handel",Austria,"Outback Lager",30,15.00,0.00
+11072,1998-05-05,"Ernst Handel",Austria,Chang,8,19.00,0.00
+11072,1998-05-05,"Ernst Handel",Austria,"Jack's New England Clam Chowder",40,9.65,0.00
+11072,1998-05-05,"Ernst Handel",Austria,"Valkoinen suklaa",22,16.25,0.00
+11072,1998-05-05,"Ernst Handel",Austria,"Wimmers gute Semmelkndel",130,33.25,0.00
+10347,1996-11-06,"Familia Arquibaldo",Brazil,"NuNuCa Nu-Nougat-Creme",10,11.20,0.00
+10347,1996-11-06,"Familia Arquibaldo",Brazil,"Chartreuse verte",50,14.40,0.00
+10347,1996-11-06,"Familia Arquibaldo",Brazil,"Boston Crab Meat",4,14.70,0.00
+10347,1996-11-06,"Familia Arquibaldo",Brazil,"Rhnbru Klosterbier",6,6.20,0.00
+10386,1996-12-18,"Familia Arquibaldo",Brazil,"Guaran Fantstica",15,3.60,0.00
+10386,1996-12-18,"Familia Arquibaldo",Brazil,"Sasquatch Ale",10,11.20,0.00
+10414,1997-01-14,"Familia Arquibaldo",Brazil,"Teatime Chocolate Biscuits",18,7.30,0.00
+10414,1997-01-14,"Familia Arquibaldo",Brazil,Geitost,50,2.00,0.00
+10512,1997-04-21,"Familia Arquibaldo",Brazil,"Guaran Fantstica",10,4.50,0.00
+10512,1997-04-21,"Familia Arquibaldo",Brazil,Spegesild,9,12.00,0.00
+10512,1997-04-21,"Familia Arquibaldo",Brazil,"Zaanse koeken",6,9.50,0.00
+10512,1997-04-21,"Familia Arquibaldo",Brazil,"Camembert Pierrot",12,34.00,0.00
+10581,1997-06-26,"Familia Arquibaldo",Brazil,"Rhnbru Klosterbier",50,7.75,0.00
+10650,1997-08-29,"Familia Arquibaldo",Brazil,"Nord-Ost Matjeshering",30,25.89,0.00
+10650,1997-08-29,"Familia Arquibaldo",Brazil,"Perth Pasties",25,32.80,0.00
+10650,1997-08-29,"Familia Arquibaldo",Brazil,Tourtire,30,7.45,0.00
+10725,1997-10-31,"Familia Arquibaldo",Brazil,"Jack's New England Clam Chowder",12,9.65,0.00
+10725,1997-10-31,"Familia Arquibaldo",Brazil,"Filo Mix",4,7.00,0.00
+10725,1997-10-31,"Familia Arquibaldo",Brazil,"Pt chinois",6,24.00,0.00
+10408,1997-01-08,"Folies gourmandes",France,"Gravad lax",10,20.80,0.00
+10408,1997-01-08,"Folies gourmandes",France,Tourtire,6,5.90,0.00
+10408,1997-01-08,"Folies gourmandes",France,"Tarte au sucre",35,39.40,0.00
+10480,1997-03-20,"Folies gourmandes",France,"Zaanse koeken",30,7.60,0.00
+10480,1997-03-20,"Folies gourmandes",France,"Raclette Courdavault",12,44.00,0.00
+10634,1997-08-15,"Folies gourmandes",France,"Uncle Bob's Organic Dried Pears",35,30.00,0.00
+10634,1997-08-15,"Folies gourmandes",France,"Carnarvon Tigers",50,62.50,0.00
+10634,1997-08-15,"Folies gourmandes",France,"Manjimup Dried Apples",15,53.00,0.00
+10634,1997-08-15,"Folies gourmandes",France,"Rhnbru Klosterbier",2,7.75,0.00
+10763,1997-12-03,"Folies gourmandes",France,"Sir Rodney's Scones",40,10.00,0.00
+10763,1997-12-03,"Folies gourmandes",France,"Gustaf's Knckebrd",6,21.00,0.00
+10763,1997-12-03,"Folies gourmandes",France,"Guaran Fantstica",20,4.50,0.00
+10789,1997-12-22,"Folies gourmandes",France,"Carnarvon Tigers",30,62.50,0.00
+10789,1997-12-22,"Folies gourmandes",France,"Steeleye Stout",15,18.00,0.00
+10789,1997-12-22,"Folies gourmandes",France,Vegie-spread,30,43.90,0.00
+10789,1997-12-22,"Folies gourmandes",France,"Scottish Longbreads",18,12.50,0.00
+10264,1996-07-24,"Folk och f HB",Sweden,Chang,35,15.20,0.00
+10264,1996-07-24,"Folk och f HB",Sweden,"Jack's New England Clam Chowder",25,7.70,0.00
+10327,1996-10-11,"Folk och f HB",Sweden,Chang,25,15.20,0.00
+10327,1996-10-11,"Folk och f HB",Sweden,"Queso Cabrales",50,16.80,0.00
+10327,1996-10-11,"Folk och f HB",Sweden,"Nord-Ost Matjeshering",35,20.70,0.00
+10327,1996-10-11,"Folk och f HB",Sweden,"Escargots de Bourgogne",30,10.60,0.00
+10378,1996-12-10,"Folk och f HB",Sweden,Flotemysost,6,17.20,0.00
+10434,1997-02-03,"Folk och f HB",Sweden,"Queso Cabrales",6,16.80,0.00
+10434,1997-02-03,"Folk och f HB",Sweden,Lakkalikri,18,14.40,0.00
+10460,1997-02-28,"Folk och f HB",Sweden,"Scottish Longbreads",21,10.00,0.00
+10460,1997-02-28,"Folk och f HB",Sweden,"Rhnbru Klosterbier",4,6.20,0.00
+10533,1997-05-12,"Folk och f HB",Sweden,"Chef Anton's Cajun Seasoning",50,22.00,0.00
+10533,1997-05-12,"Folk och f HB",Sweden,"Mozzarella di Giovanni",24,34.80,0.00
+10533,1997-05-12,"Folk och f HB",Sweden,"Rd Kaviar",24,15.00,0.00
+10561,1997-06-06,"Folk och f HB",Sweden,"Gula Malacca",10,19.45,0.00
+10561,1997-06-06,"Folk och f HB",Sweden,"Manjimup Dried Apples",50,53.00,0.00
+10703,1997-10-14,"Folk och f HB",Sweden,Chang,5,19.00,0.00
+10703,1997-10-14,"Folk och f HB",Sweden,"Raclette Courdavault",35,55.00,0.00
+10703,1997-10-14,"Folk och f HB",Sweden,"Rd Kaviar",35,15.00,0.00
+10762,1997-12-02,"Folk och f HB",Sweden,"Chartreuse verte",16,18.00,0.00
+10762,1997-12-02,"Folk och f HB",Sweden,"Zaanse koeken",30,9.50,0.00
+10762,1997-12-02,"Folk och f HB",Sweden,"Manjimup Dried Apples",28,53.00,0.00
+10762,1997-12-02,"Folk och f HB",Sweden,"Gnocchi di nonna Alice",60,38.00,0.00
+10774,1997-12-11,"Folk och f HB",Sweden,"Gorgonzola Telino",2,12.50,0.00
+10774,1997-12-11,"Folk och f HB",Sweden,"Louisiana Hot Spiced Okra",50,17.00,0.00
+10824,1998-01-09,"Folk och f HB",Sweden,"Jack's New England Clam Chowder",12,9.65,0.00
+10824,1998-01-09,"Folk och f HB",Sweden,"Outback Lager",9,15.00,0.00
+10880,1998-02-10,"Folk och f HB",Sweden,Tunnbrd,30,9.00,0.00
+10880,1998-02-10,"Folk och f HB",Sweden,"Sirop d'rable",30,28.50,0.00
+10880,1998-02-10,"Folk och f HB",Sweden,"Outback Lager",50,15.00,0.00
+10902,1998-02-23,"Folk och f HB",Sweden,"Pt chinois",30,24.00,0.00
+10902,1998-02-23,"Folk och f HB",Sweden,"Tarte au sucre",6,49.30,0.00
+10955,1998-03-17,"Folk och f HB",Sweden,"Rhnbru Klosterbier",12,7.75,0.00
+10977,1998-03-26,"Folk och f HB",Sweden,"Chartreuse verte",30,18.00,0.00
+10977,1998-03-26,"Folk och f HB",Sweden,"Zaanse koeken",30,9.50,0.00
+10977,1998-03-26,"Folk och f HB",Sweden,"Manjimup Dried Apples",10,53.00,0.00
+10977,1998-03-26,"Folk och f HB",Sweden,Vegie-spread,20,43.90,0.00
+10980,1998-03-27,"Folk och f HB",Sweden,"Rhnbru Klosterbier",40,7.75,0.00
+10993,1998-04-01,"Folk och f HB",Sweden,"Thringer Rostbratwurst",50,123.79,0.00
+10993,1998-04-01,"Folk och f HB",Sweden,"Jack's New England Clam Chowder",35,9.65,0.00
+11001,1998-04-06,"Folk och f HB",Sweden,"Uncle Bob's Organic Dried Pears",60,30.00,0.00
+11001,1998-04-06,"Folk och f HB",Sweden,"Gustaf's Knckebrd",25,21.00,0.00
+11001,1998-04-06,"Folk och f HB",Sweden,Spegesild,25,12.00,0.00
+11001,1998-04-06,"Folk och f HB",Sweden,"Pt chinois",6,24.00,0.00
+11050,1998-04-27,"Folk och f HB",Sweden,Lakkalikri,50,18.00,0.00
+10267,1996-07-29,Frankenversand,Germany,"Boston Crab Meat",50,14.70,0.00
+10267,1996-07-29,Frankenversand,Germany,"Raclette Courdavault",70,44.00,0.00
+10267,1996-07-29,Frankenversand,Germany,Lakkalikri,15,14.40,0.00
+10337,1996-10-24,Frankenversand,Germany,Tunnbrd,40,7.20,0.00
+10337,1996-10-24,Frankenversand,Germany,"Gumbr Gummibrchen",24,24.90,0.00
+10337,1996-10-24,Frankenversand,Germany,"Inlagd Sill",20,15.20,0.00
+10337,1996-10-24,Frankenversand,Germany,"Gravad lax",28,20.80,0.00
+10337,1996-10-24,Frankenversand,Germany,"Mozzarella di Giovanni",25,27.80,0.00
+10342,1996-10-30,Frankenversand,Germany,Chang,24,15.20,0.00
+10342,1996-10-30,Frankenversand,Germany,"Gorgonzola Telino",56,10.00,0.00
+10342,1996-10-30,Frankenversand,Germany,"Inlagd Sill",40,15.20,0.00
+10342,1996-10-30,Frankenversand,Germany,"Pt chinois",40,19.20,0.00
+10396,1996-12-27,Frankenversand,Germany,Tunnbrd,40,7.20,0.00
+10396,1996-12-27,Frankenversand,Germany,Flotemysost,60,17.20,0.00
+10396,1996-12-27,Frankenversand,Germany,"Mozzarella di Giovanni",21,27.80,0.00
+10488,1997-03-27,Frankenversand,Germany,"Raclette Courdavault",30,44.00,0.00
+10488,1997-03-27,Frankenversand,Germany,"Rd Kaviar",20,12.00,0.00
+10560,1997-06-06,Frankenversand,Germany,"Nord-Ost Matjeshering",20,25.89,0.00
+10560,1997-06-06,Frankenversand,Germany,"Tarte au sucre",15,49.30,0.00
+10623,1997-08-07,Frankenversand,Germany,Tofu,21,23.25,0.00
+10623,1997-08-07,Frankenversand,Germany,"Teatime Chocolate Biscuits",15,9.20,0.00
+10623,1997-08-07,Frankenversand,Germany,"Sir Rodney's Scones",25,10.00,0.00
+10623,1997-08-07,Frankenversand,Germany,"Guaran Fantstica",3,4.50,0.00
+10623,1997-08-07,Frankenversand,Germany,"Steeleye Stout",30,18.00,0.00
+10653,1997-09-02,Frankenversand,Germany,Pavlova,30,17.45,0.00
+10653,1997-09-02,Frankenversand,Germany,"Camembert Pierrot",20,34.00,0.00
+10670,1997-09-16,Frankenversand,Germany,Tunnbrd,32,9.00,0.00
+10670,1997-09-16,Frankenversand,Germany,Spegesild,60,12.00,0.00
+10670,1997-09-16,Frankenversand,Germany,"Laughing Lumberjack Lager",25,14.00,0.00
+10670,1997-09-16,Frankenversand,Germany,"Rd Kaviar",50,15.00,0.00
+10670,1997-09-16,Frankenversand,Germany,"Rhnbru Klosterbier",25,7.75,0.00
+10675,1997-09-19,Frankenversand,Germany,Tofu,30,23.25,0.00
+10675,1997-09-19,Frankenversand,Germany,"Perth Pasties",10,32.80,0.00
+10675,1997-09-19,Frankenversand,Germany,"Escargots de Bourgogne",30,13.25,0.00
+10717,1997-10-24,Frankenversand,Germany,"Sir Rodney's Scones",32,10.00,0.00
+10717,1997-10-24,Frankenversand,Germany,Tourtire,15,7.45,0.00
+10717,1997-10-24,Frankenversand,Germany,Gudbrandsdalsost,25,36.00,0.00
+10791,1997-12-23,Frankenversand,Germany,"Thringer Rostbratwurst",14,123.79,0.00
+10791,1997-12-23,Frankenversand,Germany,"Jack's New England Clam Chowder",20,9.65,0.00
+10859,1998-01-29,Frankenversand,Germany,"Guaran Fantstica",40,4.50,0.00
+10859,1998-01-29,Frankenversand,Germany,Tourtire,35,7.45,0.00
+10859,1998-01-29,Frankenversand,Germany,"Wimmers gute Semmelkndel",30,33.25,0.00
+10929,1998-03-05,Frankenversand,Germany,"Sir Rodney's Scones",60,10.00,0.00
+10929,1998-03-05,Frankenversand,Germany,"Rhnbru Klosterbier",49,7.75,0.00
+10929,1998-03-05,Frankenversand,Germany,"Original Frankfurter grne Soe",15,13.00,0.00
+11012,1998-04-09,Frankenversand,Germany,"Teatime Chocolate Biscuits",50,9.20,0.00
+11012,1998-04-09,Frankenversand,Germany,"Camembert Pierrot",36,34.00,0.00
+11012,1998-04-09,Frankenversand,Germany,Flotemysost,60,21.50,0.00
+10671,1997-09-17,"France restauration",France,Pavlova,10,17.45,0.00
+10671,1997-09-17,"France restauration",France,"Tarte au sucre",10,49.30,0.00
+10671,1997-09-17,"France restauration",France,"Louisiana Fiery Hot Pepper Sauce",12,21.05,0.00
+10860,1998-01-29,"France restauration",France,"Manjimup Dried Apples",3,53.00,0.00
+10860,1998-01-29,"France restauration",France,Lakkalikri,20,18.00,0.00
+10971,1998-03-24,"France restauration",France,"Thringer Rostbratwurst",14,123.79,0.00
+10422,1997-01-22,"Franchi S.p.A.",Italy,"Gumbr Gummibrchen",2,24.90,0.00
+10710,1997-10-20,"Franchi S.p.A.",Italy,"Teatime Chocolate Biscuits",5,9.20,0.00
+10710,1997-10-20,"Franchi S.p.A.",Italy,"Zaanse koeken",5,9.50,0.00
+10753,1997-11-25,"Franchi S.p.A.",Italy,"Rogede sild",4,9.50,0.00
+10753,1997-11-25,"Franchi S.p.A.",Italy,"Longlife Tofu",5,10.00,0.00
+10807,1997-12-31,"Franchi S.p.A.",Italy,"Boston Crab Meat",1,18.40,0.00
+11026,1998-04-15,"Franchi S.p.A.",Italy,"Carnarvon Tigers",8,62.50,0.00
+11026,1998-04-15,"Franchi S.p.A.",Italy,"Manjimup Dried Apples",10,53.00,0.00
+11060,1998-04-30,"Franchi S.p.A.",Italy,"Camembert Pierrot",4,34.00,0.00
+11060,1998-04-30,"Franchi S.p.A.",Italy,"Original Frankfurter grne Soe",10,13.00,0.00
+10328,1996-10-14,"Furia Bacalhau e Frutos do Mar",Portugal,"Raclette Courdavault",9,44.00,0.00
+10328,1996-10-14,"Furia Bacalhau e Frutos do Mar",Portugal,"Louisiana Fiery Hot Pepper Sauce",40,16.80,0.00
+10328,1996-10-14,"Furia Bacalhau e Frutos do Mar",Portugal,"Scottish Longbreads",10,10.00,0.00
+10352,1996-11-12,"Furia Bacalhau e Frutos do Mar",Portugal,"Guaran Fantstica",10,3.60,0.00
+10352,1996-11-12,"Furia Bacalhau e Frutos do Mar",Portugal,Tourtire,20,5.90,0.00
+10464,1997-03-04,"Furia Bacalhau e Frutos do Mar",Portugal,"Chef Anton's Cajun Seasoning",16,17.60,0.00
+10464,1997-03-04,"Furia Bacalhau e Frutos do Mar",Portugal,"Ipoh Coffee",3,36.80,0.00
+10464,1997-03-04,"Furia Bacalhau e Frutos do Mar",Portugal,"Gnocchi di nonna Alice",30,30.40,0.00
+10464,1997-03-04,"Furia Bacalhau e Frutos do Mar",Portugal,"Camembert Pierrot",20,27.20,0.00
+10491,1997-03-31,"Furia Bacalhau e Frutos do Mar",Portugal,"Gula Malacca",15,15.50,0.00
+10491,1997-03-31,"Furia Bacalhau e Frutos do Mar",Portugal,"Original Frankfurter grne Soe",7,10.40,0.00
+10551,1997-05-28,"Furia Bacalhau e Frutos do Mar",Portugal,Pavlova,40,17.45,0.00
+10551,1997-05-28,"Furia Bacalhau e Frutos do Mar",Portugal,"Steeleye Stout",20,18.00,0.00
+10551,1997-05-28,"Furia Bacalhau e Frutos do Mar",Portugal,"Gula Malacca",40,19.45,0.00
+10604,1997-07-18,"Furia Bacalhau e Frutos do Mar",Portugal,Chocolade,6,12.75,0.00
+10604,1997-07-18,"Furia Bacalhau e Frutos do Mar",Portugal,Lakkalikri,10,18.00,0.00
+10664,1997-09-10,"Furia Bacalhau e Frutos do Mar",Portugal,Ikura,24,31.00,0.00
+10664,1997-09-10,"Furia Bacalhau e Frutos do Mar",Portugal,"Gnocchi di nonna Alice",12,38.00,0.00
+10664,1997-09-10,"Furia Bacalhau e Frutos do Mar",Portugal,"Louisiana Fiery Hot Pepper Sauce",15,21.05,0.00
+10963,1998-03-19,"Furia Bacalhau e Frutos do Mar",Portugal,"Camembert Pierrot",2,34.00,0.00
+10366,1996-11-28,"Galera del gastrnomo",Spain,"Louisiana Fiery Hot Pepper Sauce",5,16.80,0.00
+10366,1996-11-28,"Galera del gastrnomo",Spain,"Original Frankfurter grne Soe",5,10.40,0.00
+10426,1997-01-27,"Galera del gastrnomo",Spain,"Gnocchi di nonna Alice",5,30.40,0.00
+10426,1997-01-27,"Galera del gastrnomo",Spain,"Wimmers gute Semmelkndel",7,26.60,0.00
+10568,1997-06-13,"Galera del gastrnomo",Spain,Ikura,5,31.00,0.00
+10887,1998-02-13,"Galera del gastrnomo",Spain,"NuNuCa Nu-Nougat-Creme",5,14.00,0.00
+10928,1998-03-05,"Galera del gastrnomo",Spain,"Zaanse koeken",5,9.50,0.00
+10928,1998-03-05,"Galera del gastrnomo",Spain,Lakkalikri,5,18.00,0.00
+10303,1996-09-11,"Godos Cocina Tpica",Spain,"Boston Crab Meat",40,14.70,0.00
+10303,1996-09-11,"Godos Cocina Tpica",Spain,"Louisiana Fiery Hot Pepper Sauce",30,16.80,0.00
+10303,1996-09-11,"Godos Cocina Tpica",Spain,"Scottish Longbreads",15,10.00,0.00
+10550,1997-05-28,"Godos Cocina Tpica",Spain,"Alice Mutton",8,39.00,0.00
+10550,1997-05-28,"Godos Cocina Tpica",Spain,"Teatime Chocolate Biscuits",10,9.20,0.00
+10550,1997-05-28,"Godos Cocina Tpica",Spain,"Sir Rodney's Scones",6,10.00,0.00
+10550,1997-05-28,"Godos Cocina Tpica",Spain,"Sirop d'rable",10,28.50,0.00
+10629,1997-08-12,"Godos Cocina Tpica",Spain,"Thringer Rostbratwurst",20,123.79,0.00
+10629,1997-08-12,"Godos Cocina Tpica",Spain,"Wimmers gute Semmelkndel",9,33.25,0.00
+10872,1998-02-05,"Godos Cocina Tpica",Spain,"Pt chinois",10,24.00,0.00
+10872,1998-02-05,"Godos Cocina Tpica",Spain,"Tarte au sucre",20,49.30,0.00
+10872,1998-02-05,"Godos Cocina Tpica",Spain,"Wimmers gute Semmelkndel",15,33.25,0.00
+10872,1998-02-05,"Godos Cocina Tpica",Spain,"Louisiana Fiery Hot Pepper Sauce",21,21.05,0.00
+10874,1998-02-06,"Godos Cocina Tpica",Spain,Ikura,10,31.00,0.00
+10888,1998-02-16,"Godos Cocina Tpica",Spain,Chang,20,19.00,0.00
+10888,1998-02-16,"Godos Cocina Tpica",Spain,"Scottish Longbreads",18,12.50,0.00
+10911,1998-02-26,"Godos Cocina Tpica",Spain,Chai,10,18.00,0.00
+10911,1998-02-26,"Godos Cocina Tpica",Spain,"Alice Mutton",12,39.00,0.00
+10911,1998-02-26,"Godos Cocina Tpica",Spain,"Laughing Lumberjack Lager",15,14.00,0.00
+10948,1998-03-13,"Godos Cocina Tpica",Spain,"Valkoinen suklaa",9,16.25,0.00
+10948,1998-03-13,"Godos Cocina Tpica",Spain,"Manjimup Dried Apples",40,53.00,0.00
+10948,1998-03-13,"Godos Cocina Tpica",Spain,"Pt chinois",4,24.00,0.00
+11009,1998-04-08,"Godos Cocina Tpica",Spain,"Guaran Fantstica",12,4.50,0.00
+11009,1998-04-08,"Godos Cocina Tpica",Spain,"Inlagd Sill",18,19.00,0.00
+11009,1998-04-08,"Godos Cocina Tpica",Spain,"Camembert Pierrot",9,34.00,0.00
+11037,1998-04-21,"Godos Cocina Tpica",Spain,"Outback Lager",4,15.00,0.00
+10423,1997-01-23,"Gourmet Lanchonetes",Brazil,"Gorgonzola Telino",14,10.00,0.00
+10423,1997-01-23,"Gourmet Lanchonetes",Brazil,"Raclette Courdavault",20,44.00,0.00
+10652,1997-09-01,"Gourmet Lanchonetes",Brazil,"Nord-Ost Matjeshering",2,25.89,0.00
+10652,1997-09-01,"Gourmet Lanchonetes",Brazil,"Singaporean Hokkien Fried Mee",20,14.00,0.00
+10685,1997-09-29,"Gourmet Lanchonetes",Brazil,Ikura,20,31.00,0.00
+10685,1997-09-29,"Gourmet Lanchonetes",Brazil,"Jack's New England Clam Chowder",4,9.65,0.00
+10685,1997-09-29,"Gourmet Lanchonetes",Brazil,"Zaanse koeken",15,9.50,0.00
+10709,1997-10-17,"Gourmet Lanchonetes",Brazil,"Northwoods Cranberry Sauce",40,40.00,0.00
+10709,1997-10-17,"Gourmet Lanchonetes",Brazil,"Manjimup Dried Apples",28,53.00,0.00
+10709,1997-10-17,"Gourmet Lanchonetes",Brazil,"Camembert Pierrot",10,34.00,0.00
+10734,1997-11-07,"Gourmet Lanchonetes",Brazil,"Grandma's Boysenberry Spread",30,25.00,0.00
+10734,1997-11-07,"Gourmet Lanchonetes",Brazil,"Nord-Ost Matjeshering",15,25.89,0.00
+10734,1997-11-07,"Gourmet Lanchonetes",Brazil,Lakkalikri,20,18.00,0.00
+10777,1997-12-15,"Gourmet Lanchonetes",Brazil,"Singaporean Hokkien Fried Mee",20,14.00,0.00
+10790,1997-12-22,"Gourmet Lanchonetes",Brazil,"Uncle Bob's Organic Dried Pears",3,30.00,0.00
+10790,1997-12-22,"Gourmet Lanchonetes",Brazil,"Gnocchi di nonna Alice",20,38.00,0.00
+10959,1998-03-18,"Gourmet Lanchonetes",Brazil,"Rhnbru Klosterbier",20,7.75,0.00
+11049,1998-04-24,"Gourmet Lanchonetes",Brazil,Chang,10,19.00,0.00
+11049,1998-04-24,"Gourmet Lanchonetes",Brazil,"Queso Manchego La Pastora",4,38.00,0.00
+10528,1997-05-06,"Great Lakes Food Market",USA,"Queso Cabrales",3,21.00,0.00
+10528,1997-05-06,"Great Lakes Food Market",USA,Geitost,8,2.50,0.00
+10528,1997-05-06,"Great Lakes Food Market",USA,"Mozzarella di Giovanni",9,34.80,0.00
+10589,1997-07-04,"Great Lakes Food Market",USA,"Steeleye Stout",4,18.00,0.00
+10616,1997-07-31,"Great Lakes Food Market",USA,"Cte de Blaye",15,263.50,0.00
+10616,1997-07-31,"Great Lakes Food Market",USA,"Gnocchi di nonna Alice",14,38.00,0.00
+10616,1997-07-31,"Great Lakes Food Market",USA,"Outback Lager",15,15.00,0.00
+10616,1997-07-31,"Great Lakes Food Market",USA,Flotemysost,15,21.50,0.00
+10617,1997-07-31,"Great Lakes Food Market",USA,"Raclette Courdavault",30,55.00,0.00
+10656,1997-09-04,"Great Lakes Food Market",USA,Tofu,3,23.25,0.00
+10656,1997-09-04,"Great Lakes Food Market",USA,"Gula Malacca",28,19.45,0.00
+10656,1997-09-04,"Great Lakes Food Market",USA,"Zaanse koeken",6,9.50,0.00
+10681,1997-09-25,"Great Lakes Food Market",USA,"Teatime Chocolate Biscuits",30,9.20,0.00
+10681,1997-09-25,"Great Lakes Food Market",USA,"Sir Rodney's Scones",12,10.00,0.00
+10681,1997-09-25,"Great Lakes Food Market",USA,"Wimmers gute Semmelkndel",28,33.25,0.00
+10816,1998-01-06,"Great Lakes Food Market",USA,"Cte de Blaye",30,263.50,0.00
+10816,1998-01-06,"Great Lakes Food Market",USA,"Tarte au sucre",20,49.30,0.00
+10936,1998-03-09,"Great Lakes Food Market",USA,"Inlagd Sill",30,19.00,0.00
+11006,1998-04-07,"Great Lakes Food Market",USA,Chai,8,18.00,0.00
+11006,1998-04-07,"Great Lakes Food Market",USA,"Thringer Rostbratwurst",2,123.79,0.00
+11040,1998-04-22,"Great Lakes Food Market",USA,"Sir Rodney's Scones",20,10.00,0.00
+11061,1998-04-30,"Great Lakes Food Market",USA,"Camembert Pierrot",15,34.00,0.00
+10268,1996-07-30,GROSELLA-Restaurante,Venezuela,"Thringer Rostbratwurst",10,99.00,0.00
+10268,1996-07-30,GROSELLA-Restaurante,Venezuela,"Mozzarella di Giovanni",4,27.80,0.00
+10785,1997-12-18,GROSELLA-Restaurante,Venezuela,Ikura,10,31.00,0.00
+10785,1997-12-18,GROSELLA-Restaurante,Venezuela,"Rhnbru Klosterbier",10,7.75,0.00
+10250,1996-07-08,"Hanari Carnes",Brazil,"Jack's New England Clam Chowder",10,7.70,0.00
+10250,1996-07-08,"Hanari Carnes",Brazil,"Manjimup Dried Apples",35,42.40,0.00
+10250,1996-07-08,"Hanari Carnes",Brazil,"Louisiana Fiery Hot Pepper Sauce",15,16.80,0.00
+10253,1996-07-10,"Hanari Carnes",Brazil,"Gorgonzola Telino",20,10.00,0.00
+10253,1996-07-10,"Hanari Carnes",Brazil,"Chartreuse verte",42,14.40,0.00
+10253,1996-07-10,"Hanari Carnes",Brazil,Maxilaku,40,16.00,0.00
+10541,1997-05-19,"Hanari Carnes",Brazil,"Guaran Fantstica",35,4.50,0.00
+10541,1997-05-19,"Hanari Carnes",Brazil,"Cte de Blaye",4,263.50,0.00
+10541,1997-05-19,"Hanari Carnes",Brazil,"Louisiana Fiery Hot Pepper Sauce",36,21.05,0.00
+10541,1997-05-19,"Hanari Carnes",Brazil,Flotemysost,9,21.50,0.00
+10645,1997-08-26,"Hanari Carnes",Brazil,"Carnarvon Tigers",20,62.50,0.00
+10645,1997-08-26,"Hanari Carnes",Brazil,"Inlagd Sill",15,19.00,0.00
+10690,1997-10-02,"Hanari Carnes",Brazil,"Gnocchi di nonna Alice",20,38.00,0.00
+10690,1997-10-02,"Hanari Carnes",Brazil,"Original Frankfurter grne Soe",30,13.00,0.00
+10770,1997-12-09,"Hanari Carnes",Brazil,"Queso Cabrales",15,21.00,0.00
+10783,1997-12-18,"Hanari Carnes",Brazil,"Gorgonzola Telino",10,12.50,0.00
+10783,1997-12-18,"Hanari Carnes",Brazil,"Cte de Blaye",5,263.50,0.00
+10886,1998-02-13,"Hanari Carnes",Brazil,Ikura,70,31.00,0.00
+10886,1998-02-13,"Hanari Carnes",Brazil,"Gorgonzola Telino",35,12.50,0.00
+10886,1998-02-13,"Hanari Carnes",Brazil,"Original Frankfurter grne Soe",40,13.00,0.00
+10903,1998-02-24,"Hanari Carnes",Brazil,Konbu,40,6.00,0.00
+10903,1998-02-24,"Hanari Carnes",Brazil,"Louisiana Fiery Hot Pepper Sauce",21,21.05,0.00
+10903,1998-02-24,"Hanari Carnes",Brazil,"Scottish Longbreads",20,12.50,0.00
+10922,1998-03-03,"Hanari Carnes",Brazil,"Alice Mutton",15,39.00,0.00
+10922,1998-03-03,"Hanari Carnes",Brazil,"Guaran Fantstica",35,4.50,0.00
+10925,1998-03-04,"Hanari Carnes",Brazil,"Inlagd Sill",25,19.00,0.00
+10925,1998-03-04,"Hanari Carnes",Brazil,"Filo Mix",12,7.00,0.00
+10981,1998-03-27,"Hanari Carnes",Brazil,"Cte de Blaye",60,263.50,0.00
+11022,1998-04-14,"Hanari Carnes",Brazil,"Teatime Chocolate Biscuits",35,9.20,0.00
+11022,1998-04-14,"Hanari Carnes",Brazil,Gudbrandsdalsost,30,36.00,0.00
+11052,1998-04-27,"Hanari Carnes",Brazil,"Ipoh Coffee",30,46.00,0.00
+11052,1998-04-27,"Hanari Carnes",Brazil,"Sirop d'rable",10,28.50,0.00
+10257,1996-07-16,HILARION-Abastos,Venezuela,"Schoggi Schokolade",25,35.10,0.00
+10257,1996-07-16,HILARION-Abastos,Venezuela,"Chartreuse verte",6,14.40,0.00
+10257,1996-07-16,HILARION-Abastos,Venezuela,"Original Frankfurter grne Soe",15,10.40,0.00
+10395,1996-12-26,HILARION-Abastos,Venezuela,Spegesild,28,9.60,0.00
+10395,1996-12-26,HILARION-Abastos,Venezuela,"Perth Pasties",70,26.20,0.00
+10395,1996-12-26,HILARION-Abastos,Venezuela,Gudbrandsdalsost,8,28.80,0.00
+10476,1997-03-17,HILARION-Abastos,Venezuela,"Pt chinois",2,19.20,0.00
+10476,1997-03-17,HILARION-Abastos,Venezuela,"Outback Lager",12,12.00,0.00
+10486,1997-03-26,HILARION-Abastos,Venezuela,"Queso Cabrales",5,16.80,0.00
+10486,1997-03-26,HILARION-Abastos,Venezuela,"Manjimup Dried Apples",25,42.40,0.00
+10486,1997-03-26,HILARION-Abastos,Venezuela,"Longlife Tofu",16,8.00,0.00
+10490,1997-03-31,HILARION-Abastos,Venezuela,"Raclette Courdavault",60,44.00,0.00
+10490,1997-03-31,HILARION-Abastos,Venezuela,"Scottish Longbreads",30,10.00,0.00
+10490,1997-03-31,HILARION-Abastos,Venezuela,"Rhnbru Klosterbier",36,6.20,0.00
+10498,1997-04-07,HILARION-Abastos,Venezuela,"Guaran Fantstica",14,4.50,0.00
+10498,1997-04-07,HILARION-Abastos,Venezuela,"Boston Crab Meat",5,18.40,0.00
+10498,1997-04-07,HILARION-Abastos,Venezuela,"Singaporean Hokkien Fried Mee",30,14.00,0.00
+10552,1997-05-29,HILARION-Abastos,Venezuela,Gudbrandsdalsost,18,36.00,0.00
+10552,1997-05-29,HILARION-Abastos,Venezuela,"Rhnbru Klosterbier",30,7.75,0.00
+10601,1997-07-16,HILARION-Abastos,Venezuela,Konbu,60,6.00,0.00
+10601,1997-07-16,HILARION-Abastos,Venezuela,"Raclette Courdavault",35,55.00,0.00
+10613,1997-07-29,HILARION-Abastos,Venezuela,Konbu,8,6.00,0.00
+10613,1997-07-29,HILARION-Abastos,Venezuela,"Rhnbru Klosterbier",40,7.75,0.00
+10641,1997-08-22,HILARION-Abastos,Venezuela,Chang,50,19.00,0.00
+10641,1997-08-22,HILARION-Abastos,Venezuela,"Boston Crab Meat",60,18.40,0.00
+10705,1997-10-15,HILARION-Abastos,Venezuela,"Gorgonzola Telino",20,12.50,0.00
+10705,1997-10-15,HILARION-Abastos,Venezuela,"Mascarpone Fabioli",4,32.00,0.00
+10796,1997-12-25,HILARION-Abastos,Venezuela,"Gumbr Gummibrchen",21,31.23,0.00
+10796,1997-12-25,HILARION-Abastos,Venezuela,"Gula Malacca",10,19.45,0.00
+10796,1997-12-25,HILARION-Abastos,Venezuela,"Wimmers gute Semmelkndel",35,33.25,0.00
+10796,1997-12-25,HILARION-Abastos,Venezuela,Gudbrandsdalsost,24,36.00,0.00
+10863,1998-02-02,HILARION-Abastos,Venezuela,Chai,20,18.00,0.00
+10863,1998-02-02,HILARION-Abastos,Venezuela,"Escargots de Bourgogne",12,13.25,0.00
+10901,1998-02-23,HILARION-Abastos,Venezuela,"Jack's New England Clam Chowder",30,9.65,0.00
+10901,1998-02-23,HILARION-Abastos,Venezuela,Flotemysost,30,21.50,0.00
+10957,1998-03-18,HILARION-Abastos,Venezuela,"Nord-Ost Matjeshering",30,25.89,0.00
+10957,1998-03-18,HILARION-Abastos,Venezuela,"Steeleye Stout",40,18.00,0.00
+10957,1998-03-18,HILARION-Abastos,Venezuela,"Wimmers gute Semmelkndel",8,33.25,0.00
+10960,1998-03-19,HILARION-Abastos,Venezuela,"Guaran Fantstica",10,4.50,0.00
+10960,1998-03-19,HILARION-Abastos,Venezuela,"Jack's New England Clam Chowder",24,9.65,0.00
+10976,1998-03-25,HILARION-Abastos,Venezuela,"Rssle Sauerkraut",20,45.60,0.00
+11055,1998-04-28,HILARION-Abastos,Venezuela,"Guaran Fantstica",15,4.50,0.00
+11055,1998-04-28,HILARION-Abastos,Venezuela,"NuNuCa Nu-Nougat-Creme",15,14.00,0.00
+11055,1998-04-28,HILARION-Abastos,Venezuela,"Manjimup Dried Apples",20,53.00,0.00
+11055,1998-04-28,HILARION-Abastos,Venezuela,"Ravioli Angelo",20,19.50,0.00
+10375,1996-12-06,"Hungry Coyote Import Store",USA,Tofu,15,18.60,0.00
+10375,1996-12-06,"Hungry Coyote Import Store",USA,Tourtire,10,5.90,0.00
+10394,1996-12-25,"Hungry Coyote Import Store",USA,Konbu,10,4.80,0.00
+10394,1996-12-25,"Hungry Coyote Import Store",USA,"Tarte au sucre",10,39.40,0.00
+10415,1997-01-15,"Hungry Coyote Import Store",USA,"Alice Mutton",2,31.20,0.00
+10415,1997-01-15,"Hungry Coyote Import Store",USA,Geitost,20,2.00,0.00
+10600,1997-07-16,"Hungry Coyote Import Store",USA,Tourtire,4,7.45,0.00
+10600,1997-07-16,"Hungry Coyote Import Store",USA,"Rd Kaviar",30,15.00,0.00
+10660,1997-09-08,"Hungry Coyote Import Store",USA,"Sir Rodney's Marmalade",21,81.00,0.00
+10298,1996-09-05,"Hungry Owl All-Night Grocers",Ireland,Chang,40,15.20,0.00
+10298,1996-09-05,"Hungry Owl All-Night Grocers",Ireland,"Inlagd Sill",40,15.20,0.00
+10298,1996-09-05,"Hungry Owl All-Night Grocers",Ireland,"Raclette Courdavault",30,44.00,0.00
+10298,1996-09-05,"Hungry Owl All-Night Grocers",Ireland,"Tarte au sucre",15,39.40,0.00
+10309,1996-09-19,"Hungry Owl All-Night Grocers",Ireland,"Chef Anton's Cajun Seasoning",20,17.60,0.00
+10309,1996-09-19,"Hungry Owl All-Night Grocers",Ireland,"Grandma's Boysenberry Spread",30,20.00,0.00
+10309,1996-09-19,"Hungry Owl All-Night Grocers",Ireland,"Singaporean Hokkien Fried Mee",2,11.20,0.00
+10309,1996-09-19,"Hungry Owl All-Night Grocers",Ireland,"Ipoh Coffee",20,36.80,0.00
+10309,1996-09-19,"Hungry Owl All-Night Grocers",Ireland,Flotemysost,3,17.20,0.00
+10335,1996-10-22,"Hungry Owl All-Night Grocers",Ireland,Chang,7,15.20,0.00
+10335,1996-10-22,"Hungry Owl All-Night Grocers",Ireland,"Gorgonzola Telino",25,10.00,0.00
+10335,1996-10-22,"Hungry Owl All-Night Grocers",Ireland,"Mascarpone Fabioli",6,25.60,0.00
+10335,1996-10-22,"Hungry Owl All-Night Grocers",Ireland,"Manjimup Dried Apples",48,42.40,0.00
+10373,1996-12-05,"Hungry Owl All-Night Grocers",Ireland,"Escargots de Bourgogne",80,10.60,0.00
+10373,1996-12-05,"Hungry Owl All-Night Grocers",Ireland,Flotemysost,50,17.20,0.00
+10380,1996-12-12,"Hungry Owl All-Night Grocers",Ireland,"Nord-Ost Matjeshering",18,20.70,0.00
+10380,1996-12-12,"Hungry Owl All-Night Grocers",Ireland,"Perth Pasties",20,26.20,0.00
+10380,1996-12-12,"Hungry Owl All-Night Grocers",Ireland,"Camembert Pierrot",6,27.20,0.00
+10380,1996-12-12,"Hungry Owl All-Night Grocers",Ireland,"Outback Lager",30,12.00,0.00
+10429,1997-01-29,"Hungry Owl All-Night Grocers",Ireland,"Valkoinen suklaa",40,13.00,0.00
+10429,1997-01-29,"Hungry Owl All-Night Grocers",Ireland,Vegie-spread,35,35.10,0.00
+10503,1997-04-11,"Hungry Owl All-Night Grocers",Ireland,Tofu,70,23.25,0.00
+10503,1997-04-11,"Hungry Owl All-Night Grocers",Ireland,"Louisiana Fiery Hot Pepper Sauce",20,21.05,0.00
+10516,1997-04-24,"Hungry Owl All-Night Grocers",Ireland,"Carnarvon Tigers",25,62.50,0.00
+10516,1997-04-24,"Hungry Owl All-Night Grocers",Ireland,"Jack's New England Clam Chowder",80,9.65,0.00
+10516,1997-04-24,"Hungry Owl All-Night Grocers",Ireland,"Singaporean Hokkien Fried Mee",20,14.00,0.00
+10567,1997-06-12,"Hungry Owl All-Night Grocers",Ireland,"Gorgonzola Telino",60,12.50,0.00
+10567,1997-06-12,"Hungry Owl All-Night Grocers",Ireland,"Manjimup Dried Apples",3,53.00,0.00
+10567,1997-06-12,"Hungry Owl All-Night Grocers",Ireland,"Raclette Courdavault",40,55.00,0.00
+10646,1997-08-27,"Hungry Owl All-Night Grocers",Ireland,Chai,15,18.00,0.00
+10646,1997-08-27,"Hungry Owl All-Night Grocers",Ireland,Ikura,18,31.00,0.00
+10646,1997-08-27,"Hungry Owl All-Night Grocers",Ireland,Flotemysost,30,21.50,0.00
+10646,1997-08-27,"Hungry Owl All-Night Grocers",Ireland,"Original Frankfurter grne Soe",35,13.00,0.00
+10661,1997-09-09,"Hungry Owl All-Night Grocers",Ireland,"Chartreuse verte",3,18.00,0.00
+10661,1997-09-09,"Hungry Owl All-Night Grocers",Ireland,"Escargots de Bourgogne",49,13.25,0.00
+10687,1997-09-30,"Hungry Owl All-Night Grocers",Ireland,"Mishi Kobe Niku",50,97.00,0.00
+10687,1997-09-30,"Hungry Owl All-Night Grocers",Ireland,"Thringer Rostbratwurst",10,123.79,0.00
+10687,1997-09-30,"Hungry Owl All-Night Grocers",Ireland,"Inlagd Sill",6,19.00,0.00
+10701,1997-10-13,"Hungry Owl All-Night Grocers",Ireland,"Raclette Courdavault",42,55.00,0.00
+10701,1997-10-13,"Hungry Owl All-Night Grocers",Ireland,Flotemysost,20,21.50,0.00
+10701,1997-10-13,"Hungry Owl All-Night Grocers",Ireland,Lakkalikri,35,18.00,0.00
+10712,1997-10-21,"Hungry Owl All-Night Grocers",Ireland,"Perth Pasties",3,32.80,0.00
+10712,1997-10-21,"Hungry Owl All-Night Grocers",Ireland,"Gnocchi di nonna Alice",30,38.00,0.00
+10736,1997-11-11,"Hungry Owl All-Night Grocers",Ireland,"Louisiana Fiery Hot Pepper Sauce",40,21.05,0.00
+10736,1997-11-11,"Hungry Owl All-Night Grocers",Ireland,"Rhnbru Klosterbier",20,7.75,0.00
+10897,1998-02-19,"Hungry Owl All-Night Grocers",Ireland,"Thringer Rostbratwurst",80,123.79,0.00
+10897,1998-02-19,"Hungry Owl All-Night Grocers",Ireland,"Nord-Ost Matjeshering",36,25.89,0.00
+10912,1998-02-26,"Hungry Owl All-Night Grocers",Ireland,"Queso Cabrales",40,21.00,0.00
+10912,1998-02-26,"Hungry Owl All-Night Grocers",Ireland,"Thringer Rostbratwurst",60,123.79,0.00
+10985,1998-03-30,"Hungry Owl All-Night Grocers",Ireland,Pavlova,36,17.45,0.00
+10985,1998-03-30,"Hungry Owl All-Night Grocers",Ireland,"Carnarvon Tigers",8,62.50,0.00
+10985,1998-03-30,"Hungry Owl All-Night Grocers",Ireland,"Mascarpone Fabioli",35,32.00,0.00
+11063,1998-04-30,"Hungry Owl All-Night Grocers",Ireland,"Sasquatch Ale",30,14.00,0.00
+11063,1998-04-30,"Hungry Owl All-Night Grocers",Ireland,"Boston Crab Meat",40,18.40,0.00
+11063,1998-04-30,"Hungry Owl All-Night Grocers",Ireland,"Jack's New England Clam Chowder",30,9.65,0.00
+10315,1996-09-26,"Island Trading",UK,"Sasquatch Ale",14,11.20,0.00
+10315,1996-09-26,"Island Trading",UK,"Outback Lager",30,12.00,0.00
+10318,1996-10-01,"Island Trading",UK,"Jack's New England Clam Chowder",20,7.70,0.00
+10318,1996-10-01,"Island Trading",UK,Lakkalikri,6,14.40,0.00
+10321,1996-10-03,"Island Trading",UK,"Steeleye Stout",10,14.40,0.00
+10473,1997-03-13,"Island Trading",UK,Geitost,12,2.00,0.00
+10473,1997-03-13,"Island Trading",UK,Flotemysost,12,17.20,0.00
+10621,1997-08-05,"Island Trading",UK,"Teatime Chocolate Biscuits",5,9.20,0.00
+10621,1997-08-05,"Island Trading",UK,Tunnbrd,10,9.00,0.00
+10621,1997-08-05,"Island Trading",UK,"Outback Lager",20,15.00,0.00
+10621,1997-08-05,"Island Trading",UK,Flotemysost,15,21.50,0.00
+10674,1997-09-18,"Island Trading",UK,Tunnbrd,5,9.00,0.00
+10749,1997-11-20,"Island Trading",UK,"Gnocchi di nonna Alice",15,38.00,0.00
+10749,1997-11-20,"Island Trading",UK,"Raclette Courdavault",6,55.00,0.00
+10749,1997-11-20,"Island Trading",UK,Lakkalikri,10,18.00,0.00
+10798,1997-12-26,"Island Trading",UK,"Tarte au sucre",2,49.30,0.00
+10798,1997-12-26,"Island Trading",UK,"Mozzarella di Giovanni",10,34.80,0.00
+10829,1998-01-13,"Island Trading",UK,Chang,10,19.00,0.00
+10829,1998-01-13,"Island Trading",UK,"Northwoods Cranberry Sauce",20,40.00,0.00
+10829,1998-01-13,"Island Trading",UK,Konbu,10,6.00,0.00
+10829,1998-01-13,"Island Trading",UK,"Camembert Pierrot",21,34.00,0.00
+10933,1998-03-06,"Island Trading",UK,"Perth Pasties",2,32.80,0.00
+10933,1998-03-06,"Island Trading",UK,"Sirop d'rable",30,28.50,0.00
+10323,1996-10-07,"Kniglich Essen",Germany,"Genen Shouyu",5,12.40,0.00
+10323,1996-10-07,"Kniglich Essen",Germany,"NuNuCa Nu-Nougat-Creme",4,11.20,0.00
+10323,1996-10-07,"Kniglich Essen",Germany,"Chartreuse verte",4,14.40,0.00
+10325,1996-10-09,"Kniglich Essen",Germany,"Grandma's Boysenberry Spread",6,20.00,0.00
+10325,1996-10-09,"Kniglich Essen",Germany,Konbu,12,4.80,0.00
+10325,1996-10-09,"Kniglich Essen",Germany,Tofu,9,18.60,0.00
+10325,1996-10-09,"Kniglich Essen",Germany,"Gorgonzola Telino",4,10.00,0.00
+10325,1996-10-09,"Kniglich Essen",Germany,"Mozzarella di Giovanni",40,27.80,0.00
+10456,1997-02-25,"Kniglich Essen",Germany,"Sir Rodney's Scones",40,8.00,0.00
+10456,1997-02-25,"Kniglich Essen",Germany,Maxilaku,21,16.00,0.00
+10457,1997-02-25,"Kniglich Essen",Germany,"Raclette Courdavault",36,44.00,0.00
+10468,1997-03-07,"Kniglich Essen",Germany,"Nord-Ost Matjeshering",8,20.70,0.00
+10468,1997-03-07,"Kniglich Essen",Germany,"Ipoh Coffee",15,36.80,0.00
+10506,1997-04-15,"Kniglich Essen",Germany,"NuNuCa Nu-Nougat-Creme",18,14.00,0.00
+10506,1997-04-15,"Kniglich Essen",Germany,"Outback Lager",14,15.00,0.00
+10542,1997-05-20,"Kniglich Essen",Germany,"Queso Cabrales",15,21.00,0.00
+10542,1997-05-20,"Kniglich Essen",Germany,Tourtire,24,7.45,0.00
+10630,1997-08-13,"Kniglich Essen",Germany,"Pt chinois",12,24.00,0.00
+10630,1997-08-13,"Kniglich Essen",Germany,Lakkalikri,35,18.00,0.00
+10718,1997-10-27,"Kniglich Essen",Germany,"Queso Manchego La Pastora",36,38.00,0.00
+10718,1997-10-27,"Kniglich Essen",Germany,Pavlova,20,17.45,0.00
+10718,1997-10-27,"Kniglich Essen",Germany,"Inlagd Sill",40,19.00,0.00
+10718,1997-10-27,"Kniglich Essen",Germany,"Tarte au sucre",20,49.30,0.00
+10799,1997-12-26,"Kniglich Essen",Germany,Konbu,20,6.00,0.00
+10799,1997-12-26,"Kniglich Essen",Germany,"Guaran Fantstica",20,4.50,0.00
+10799,1997-12-26,"Kniglich Essen",Germany,"Raclette Courdavault",25,55.00,0.00
+10817,1998-01-06,"Kniglich Essen",Germany,"Gumbr Gummibrchen",40,31.23,0.00
+10817,1998-01-06,"Kniglich Essen",Germany,"Cte de Blaye",30,263.50,0.00
+10817,1998-01-06,"Kniglich Essen",Germany,"Boston Crab Meat",60,18.40,0.00
+10817,1998-01-06,"Kniglich Essen",Germany,"Tarte au sucre",25,49.30,0.00
+10849,1998-01-23,"Kniglich Essen",Germany,"Aniseed Syrup",49,10.00,0.00
+10849,1998-01-23,"Kniglich Essen",Germany,"Gumbr Gummibrchen",18,31.23,0.00
+10893,1998-02-18,"Kniglich Essen",Germany,"Northwoods Cranberry Sauce",30,40.00,0.00
+10893,1998-02-18,"Kniglich Essen",Germany,"Guaran Fantstica",10,4.50,0.00
+10893,1998-02-18,"Kniglich Essen",Germany,"Thringer Rostbratwurst",24,123.79,0.00
+10893,1998-02-18,"Kniglich Essen",Germany,"Nord-Ost Matjeshering",35,25.89,0.00
+10893,1998-02-18,"Kniglich Essen",Germany,"Inlagd Sill",20,19.00,0.00
+11028,1998-04-16,"Kniglich Essen",Germany,"Pt chinois",35,24.00,0.00
+11028,1998-04-16,"Kniglich Essen",Germany,"Raclette Courdavault",24,55.00,0.00
+10858,1998-01-29,"La corne d'abondance",France,"Uncle Bob's Organic Dried Pears",5,30.00,0.00
+10858,1998-01-29,"La corne d'abondance",France,"Schoggi Schokolade",10,43.90,0.00
+10858,1998-01-29,"La corne d'abondance",France,"Outback Lager",4,15.00,0.00
+10927,1998-03-05,"La corne d'abondance",France,"Sir Rodney's Marmalade",5,81.00,0.00
+10927,1998-03-05,"La corne d'abondance",France,"Filo Mix",5,7.00,0.00
+10927,1998-03-05,"La corne d'abondance",France,Lakkalikri,20,18.00,0.00
+10972,1998-03-24,"La corne d'abondance",France,"Alice Mutton",6,39.00,0.00
+10972,1998-03-24,"La corne d'abondance",France,Geitost,7,2.50,0.00
+10973,1998-03-24,"La corne d'abondance",France,"Gumbr Gummibrchen",5,31.23,0.00
+10973,1998-03-24,"La corne d'abondance",France,"Jack's New England Clam Chowder",6,9.65,0.00
+10973,1998-03-24,"La corne d'abondance",France,"Rhnbru Klosterbier",10,7.75,0.00
+10350,1996-11-11,"La maison d'Asie",France,"Valkoinen suklaa",15,13.00,0.00
+10350,1996-11-11,"La maison d'Asie",France,Gudbrandsdalsost,18,28.80,0.00
+10358,1996-11-20,"La maison d'Asie",France,"Guaran Fantstica",10,3.60,0.00
+10358,1996-11-20,"La maison d'Asie",France,"Sasquatch Ale",10,11.20,0.00
+10358,1996-11-20,"La maison d'Asie",France,"Inlagd Sill",20,15.20,0.00
+10371,1996-12-03,"La maison d'Asie",France,"Inlagd Sill",6,15.20,0.00
+10413,1997-01-14,"La maison d'Asie",France,Chai,24,14.40,0.00
+10413,1997-01-14,"La maison d'Asie",France,"Tarte au sucre",40,39.40,0.00
+10413,1997-01-14,"La maison d'Asie",France,Lakkalikri,14,14.40,0.00
+10425,1997-01-24,"La maison d'Asie",France,"Pt chinois",10,19.20,0.00
+10425,1997-01-24,"La maison d'Asie",France,Lakkalikri,20,14.40,0.00
+10454,1997-02-21,"La maison d'Asie",France,Pavlova,20,13.90,0.00
+10454,1997-02-21,"La maison d'Asie",France,Geitost,20,2.00,0.00
+10454,1997-02-21,"La maison d'Asie",France,Spegesild,10,9.60,0.00
+10493,1997-04-02,"La maison d'Asie",France,"Louisiana Fiery Hot Pepper Sauce",15,16.80,0.00
+10493,1997-04-02,"La maison d'Asie",France,"Louisiana Hot Spiced Okra",10,13.60,0.00
+10493,1997-04-02,"La maison d'Asie",France,Gudbrandsdalsost,10,28.80,0.00
+10500,1997-04-09,"La maison d'Asie",France,"Genen Shouyu",12,15.50,0.00
+10500,1997-04-09,"La maison d'Asie",France,"Rssle Sauerkraut",8,45.60,0.00
+10610,1997-07-25,"La maison d'Asie",France,"Inlagd Sill",21,19.00,0.00
+10631,1997-08-14,"La maison d'Asie",France,"Rhnbru Klosterbier",8,7.75,0.00
+10787,1997-12-19,"La maison d'Asie",France,Chang,15,19.00,0.00
+10787,1997-12-19,"La maison d'Asie",France,"Thringer Rostbratwurst",20,123.79,0.00
+10832,1998-01-14,"La maison d'Asie",France,Konbu,3,6.00,0.00
+10832,1998-01-14,"La maison d'Asie",France,"NuNuCa Nu-Nougat-Creme",10,14.00,0.00
+10832,1998-01-14,"La maison d'Asie",France,"Gula Malacca",16,19.45,0.00
+10832,1998-01-14,"La maison d'Asie",France,"Wimmers gute Semmelkndel",3,33.25,0.00
+10923,1998-03-03,"La maison d'Asie",France,"Singaporean Hokkien Fried Mee",10,14.00,0.00
+10923,1998-03-03,"La maison d'Asie",France,"Ipoh Coffee",10,46.00,0.00
+10923,1998-03-03,"La maison d'Asie",France,"Laughing Lumberjack Lager",24,14.00,0.00
+11051,1998-04-27,"La maison d'Asie",France,"Guaran Fantstica",10,4.50,0.00
+10495,1997-04-03,"Laughing Bacchus Wine Cellars",Canada,Tunnbrd,10,7.20,0.00
+10495,1997-04-03,"Laughing Bacchus Wine Cellars",Canada,"Jack's New England Clam Chowder",20,7.70,0.00
+10495,1997-04-03,"Laughing Bacchus Wine Cellars",Canada,"Original Frankfurter grne Soe",5,10.40,0.00
+10620,1997-08-05,"Laughing Bacchus Wine Cellars",Canada,"Guaran Fantstica",5,4.50,0.00
+10620,1997-08-05,"Laughing Bacchus Wine Cellars",Canada,"Filo Mix",5,7.00,0.00
+10810,1998-01-01,"Laughing Bacchus Wine Cellars",Canada,Konbu,7,6.00,0.00
+10810,1998-01-01,"Laughing Bacchus Wine Cellars",Canada,"NuNuCa Nu-Nougat-Creme",5,14.00,0.00
+10810,1998-01-01,"Laughing Bacchus Wine Cellars",Canada,"Outback Lager",5,15.00,0.00
+10482,1997-03-21,"Lazy K Kountry Store",USA,"Boston Crab Meat",10,14.70,0.00
+10545,1997-05-22,"Lazy K Kountry Store",USA,"Queso Cabrales",10,21.00,0.00
+10279,1996-08-13,"Lehmanns Marktstand",Germany,"Alice Mutton",15,31.20,0.00
+10284,1996-08-19,"Lehmanns Marktstand",Germany,"Schoggi Schokolade",15,35.10,0.00
+10284,1996-08-19,"Lehmanns Marktstand",Germany,"Gula Malacca",21,15.50,0.00
+10284,1996-08-19,"Lehmanns Marktstand",Germany,"Camembert Pierrot",20,27.20,0.00
+10284,1996-08-19,"Lehmanns Marktstand",Germany,"Laughing Lumberjack Lager",5,11.20,0.00
+10343,1996-10-31,"Lehmanns Marktstand",Germany,"Wimmers gute Semmelkndel",50,26.60,0.00
+10343,1996-10-31,"Lehmanns Marktstand",Germany,"Scottish Longbreads",4,10.00,0.00
+10343,1996-10-31,"Lehmanns Marktstand",Germany,Lakkalikri,15,14.40,0.00
+10497,1997-04-04,"Lehmanns Marktstand",Germany,"Gnocchi di nonna Alice",14,30.40,0.00
+10497,1997-04-04,"Lehmanns Marktstand",Germany,"Mozzarella di Giovanni",25,27.80,0.00
+10497,1997-04-04,"Lehmanns Marktstand",Germany,"Original Frankfurter grne Soe",25,10.40,0.00
+10522,1997-04-30,"Lehmanns Marktstand",Germany,Chai,40,18.00,0.00
+10522,1997-04-30,"Lehmanns Marktstand",Germany,"Northwoods Cranberry Sauce",24,40.00,0.00
+10522,1997-04-30,"Lehmanns Marktstand",Germany,"Nord-Ost Matjeshering",20,25.89,0.00
+10522,1997-04-30,"Lehmanns Marktstand",Germany,"Boston Crab Meat",25,18.40,0.00
+10534,1997-05-12,"Lehmanns Marktstand",Germany,"Nord-Ost Matjeshering",10,25.89,0.00
+10534,1997-05-12,"Lehmanns Marktstand",Germany,"Boston Crab Meat",10,18.40,0.00
+10534,1997-05-12,"Lehmanns Marktstand",Germany,Tourtire,10,7.45,0.00
+10536,1997-05-14,"Lehmanns Marktstand",Germany,"Queso Manchego La Pastora",15,38.00,0.00
+10536,1997-05-14,"Lehmanns Marktstand",Germany,"Gorgonzola Telino",20,12.50,0.00
+10536,1997-05-14,"Lehmanns Marktstand",Germany,Geitost,30,2.50,0.00
+10536,1997-05-14,"Lehmanns Marktstand",Germany,"Camembert Pierrot",35,34.00,0.00
+10557,1997-06-03,"Lehmanns Marktstand",Germany,"Wimmers gute Semmelkndel",30,33.25,0.00
+10557,1997-06-03,"Lehmanns Marktstand",Germany,"Rhnbru Klosterbier",20,7.75,0.00
+10592,1997-07-08,"Lehmanns Marktstand",Germany,"Genen Shouyu",25,15.50,0.00
+10592,1997-07-08,"Lehmanns Marktstand",Germany,"Gumbr Gummibrchen",5,31.23,0.00
+10593,1997-07-09,"Lehmanns Marktstand",Germany,"Sir Rodney's Marmalade",21,81.00,0.00
+10593,1997-07-09,"Lehmanns Marktstand",Germany,Gudbrandsdalsost,20,36.00,0.00
+10593,1997-07-09,"Lehmanns Marktstand",Germany,Lakkalikri,4,18.00,0.00
+10772,1997-12-10,"Lehmanns Marktstand",Germany,"Thringer Rostbratwurst",18,123.79,0.00
+10772,1997-12-10,"Lehmanns Marktstand",Germany,"Raclette Courdavault",25,55.00,0.00
+10862,1998-01-30,"Lehmanns Marktstand",Germany,"Queso Cabrales",25,21.00,0.00
+10862,1998-01-30,"Lehmanns Marktstand",Germany,"Filo Mix",8,7.00,0.00
+10891,1998-02-17,"Lehmanns Marktstand",Germany,"Nord-Ost Matjeshering",15,25.89,0.00
+10934,1998-03-09,"Lehmanns Marktstand",Germany,"Grandma's Boysenberry Spread",20,25.00,0.00
+11070,1998-05-05,"Lehmanns Marktstand",Germany,Chai,40,18.00,0.00
+11070,1998-05-05,"Lehmanns Marktstand",Germany,Chang,20,19.00,0.00
+11070,1998-05-05,"Lehmanns Marktstand",Germany,Pavlova,30,17.45,0.00
+11070,1998-05-05,"Lehmanns Marktstand",Germany,"Gorgonzola Telino",20,12.50,0.00
+10579,1997-06-25,"Let's Stop N Shop",USA,"Genen Shouyu",10,15.50,0.00
